@@ -1,0 +1,3326 @@
+codigo,descricao,cod_pai_id
+14,DIREITO TRIBUTÁRIO,
+195,DIREITO PREVIDENCIÁRIO,
+287,DIREITO PENAL,
+864,DIREITO DO TRABALHO,
+899,DIREITO CIVIL,
+1146,DIREITO MARÍTIMO,
+1156,DIREITO DO CONSUMIDOR,
+1209,DIREITO PROCESSUAL PENAL,
+1681,Periculosidade,2594
+1690,Contribuição Assistencial,1697
+1691,Contribuição Confederativa,1697
+1695,Direito Coletivo do Trabalho,864
+1697,Direito Sindical e Questões Análogas,864
+1703,Eleição,1697
+1705,Registro de Entidade Sindical,1697
+1721,Salário In Natura,2458
+1723,Assédio Moral,1855
+1724,Assédio Sexual,1855
+1767,Cesta Básica,2581
+1773,Contribuição Sindical,1697
+1783,Comissões e Percentuais,2581
+1789,Complemento Temporário Variável de Ajuste ao Piso de Mercado,2581
+1849,Culpa Recíproca,2620
+1855,Indenizaçao por Dano Moral,2567
+1888,Descontos Salariais - Devolução,2581
+1904,Despedida / Dispensa Imotivada,2620
+1907,Justa Causa / Falta Grave,2620
+1920,Diárias,2581
+1929,Dirigente Sindical,2656
+1937,Responsabilidade Solidária / Subsidiária,864
+1965,Empregado Público,2656
+1966,Portador de HIV,2656
+1976,Contrato Suspenso,2656
+1977,Estabilidade decorrente de Norma Coletiva,2656
+1978,Gestante,2656
+1981,Membro da Cipa,2656
+1998,Multa de 40% do FGTS,2546
+2019,Fruição / Gozo ,2662
+2021,Indenização / Terço Constitucional,2662
+2055,Gratificação,2581
+2117,Supressão de Horas Extras Habituais - Indenização,2581
+2135,Sentença Normativa,864
+2210,Multa do Artigo 467 da CLT,2546
+2212,Multa do Artigo 477 da CLT,2546
+2215,Multa Prevista em Norma Coletiva,2581
+2243,Plano de Demissão Voluntária,2620
+2273,PIS - Indenização,2581
+2275,Piso Salarial da Categoria / Salário Mínimo Profissional,2458
+2331,Prêmio,2581
+2349,Contribuição de Previdência Privada - Resgate,2581
+2364,Plano de Saúde,2581
+2435,Rescisão Indireta,2620
+2449,Reajuste Salarial,2458
+2450,Gorjeta,2581
+2452,Salário Vencido / Retido,2458
+2458,Salário / Diferença Salarial,2581
+2461,Salário Família,2458
+2463,Salário Paternidade,2458
+2466,Salário Por Fora - Integração,2458
+2468,Salário Por Safra,2458
+2477,Seguro de Vida,2581
+2478,Seguro Desemprego,2620
+2479,Indenização,2478
+2480,Liberação das Guias,2478
+2493,Tarefa ,2581
+2506,Auxílio / Tíquete Alimentação,2581
+2540,Vale Transporte,2581
+2546,Verbas Rescisórias,2620
+2557,Aprendizagem,7628
+2558,Cooperado,7628
+2559,Estágio,7628
+2567,Responsabilidade Civil do Empregador,864
+2581,"Verbas Remuneratórias, Indenizatórias e Benefícios",864
+2583,Abono,2581
+2594,Adicional ,2581
+2604,Adicional de Transferência,2594
+2606,Ajuda de Custo,2581
+2620,Rescisão do Contrato de Trabalho,864
+2622,Aposentadoria e Pensão,864
+2624,Complementação de Aposentadoria / Pensão,2622
+2641,AVISO PRÉVIO,2546
+2656,Reintegração / Readmissão ou Indenização Substitutiva,2620
+2657,Anistia,2656
+2661,Estabilidade Acidentária,2656
+2662,Férias,864
+2663,Abono Pecuniário,2662
+2666,Décimo Terceiro Salário,2581
+2697,Salário por Equiparação / Isonomia,2458
+2704,Terceirização / Tomador de Serviços,1937
+3369,Crimes contra a vida,287
+3370,Homicídio Simples,3369
+3371,Homicídio Privilegiado,3369
+3372,Homicídio Qualificado,3369
+3373,"Induzimento, Instigação ou Auxílio a Suicídio",3369
+3375,Infanticídio,3369
+3385,Lesão Corporal,287
+3386,Leve,3385
+3387,Seguida de Morte,3385
+3388,Periclitação da Vida e da Saúde e Rixa,287
+3389,Perigo de contágio de moléstia grave,3388
+3390,Perigo para a vida ou saúde de outrem,3388
+3391,Abandono de incapaz,3388
+3392,Omissão de socorro,3388
+3393,Rixa,3388
+3394,Crimes contra a Honra,287
+3395,Calúnia,3394
+3396,Difamação,3394
+3397,Injúria,3394
+3400,Crimes contra a liberdade pessoal,287
+3401,Constrangimento ilegal ,3400
+3402,Ameaça ,3400
+3403,Seqüestro e cárcere privado ,3400
+3404,Redução a condição análoga à de escravo ,3400
+3405,Crimes contra a inviolabilidade de domicílio,287
+3406,Violação de domicílio ,3405
+3407,Crimes contra a inviolabilidade de correspondência,287
+3408,Violação de correspondência ,3407
+3409,Sonegação ou destruição de correspondência ,3407
+3410,"Violação de comunicação telegráfica, radioelétrica ou telefônica ",3407
+3411,Violação de Correspondência comercial ,3407
+3412,Crimes contra a inviolabilidade de segredo,287
+3413,Divulgação de segredo ,3412
+3414,Violação do segredo profissional ,3412
+3415,Crimes contra o Patrimônio,287
+3416,Furto ,3415
+3417,Furto Qualificado ,3415
+3418,Furto de coisa comum ,3415
+3419,Roubo ,3415
+3420,Extorsão ,3415
+3421,Extorsão mediante seqüestro ,3415
+3422,Extorsão indireta,3415
+3423,Alteração de limites ,3415
+3424,Usurpação de águas ,3415
+3425,Esbulho possessório,3415
+3426,Dano,3415
+3427,Introdução ou abandono de animais em propriedade alheia,3415
+3428,"Dano em coisa de valor artístico, arqueológico ou histórico",3415
+3429,Alteração de local especialmente protegido,3415
+3430,Apropriação indébita Previdenciária ,3415
+3431,Estelionato,3415
+3432,Estelionato Majorado ,3415
+3433,Outras fraudes,3415
+3434,Fraude à execução ,3415
+3435,Receptação,3415
+3436,Apropriação indébita,3415
+3437,"Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza",3415
+3438,Crimes contra a Propriedade Industrial,3603
+3442,Crimes contra a Propriedade Intelectual,287
+3443,Violação de direito autoral,3442
+3445,Crimes contra a Organização do Trabalho,287
+3446,Atentado contra a liberdade de trabalho,3445
+3447,Atentado contra a liberdade de contrato de trabalho e boicotagem violenta,3445
+3448,Atentado contra a liberdade de associação,3445
+3449,"Paralisação de trabalho, seguida de violência ou perturbação da ordem",3445
+3450,Paralisação de trabalho de interesse coletivo,3445
+3451,"Invasão de estabelecimento industrial, comercial ou agrícola. Sabotagem",3445
+3452,Frustração de direitos assegurados por lei trabalhista,3445
+3453,Exercício de atividade com infração de decisão administrativa ,3445
+3457,Crimes contra o sentimento religioso e contra o respeito aos mortos,287
+3458,Destruição / Subração / Ocultação de Cadáver,3457
+3459,Impedimento ou Perturbação de Cerimônia Funerária,3457
+3460,Vilipêndio a Cadáver,3457
+3461,Violação a Sepultura ,3457
+3462,Ultraje / Impedimento ou Perturbação de Culto Religioso,3457
+3463,Crimes contra a Dignidade Sexual,287
+3465,Estupro ,3463
+3466,Atentado Violento ao Pudor ,3463
+3467,Atentado ao Pudor Mediante Fraude,3463
+3468,Corrupção de Menores,3463
+3469,Ultraje Público ao Pudor (Ato/Escrito Obsceno),3463
+3471,Mediação para Servir a Lascívia de Outrem ,3463
+3472,Crimes contra a Família,287
+3473,Crimes Contra a Assistência Familiar,3472
+3474,Abandono Material,3473
+3475,Abandono Intelectual,3473
+3476,Entrega de Filho Menor a Pessoa Inidônea,3473
+3477,Crimes contra o Casamento,3472
+3479,Bigamia,3477
+3480,Conhecimento Prévio de Impedimento ,3477
+3481,Induzimento a erro essencial e ocultação de impedimento,3477
+3482,Simulação de Casamento,3477
+3483,Simulação de Autoridade para Celebração de Casamento,3477
+3484,Crimes Contra o Estado de Filiação,3472
+3485,Parto Suposto ,3484
+3486,Registro de Nascimento Inexistente,3484
+3487,Sonegação do Estado de Filiação,3484
+3488,Crime contra o Pátrio-Poder e Tutela,3472
+3489,"Induzimento a Fuga, Entrega Arbitrária ou Sonegação de Incapazes",3488
+3490,Subtração de Incapazes ,3488
+3491,Crimes contra a Incolumidade Pública,287
+3492,Incêndio,3491
+3493,Explosão ,3491
+3494,Uso de gás tóxico ou asfixiante ,3491
+3495,Inundação / Perigo de Inundação,3491
+3496,Desabamento ou desmoronamento,3491
+3497,"Subtração, ocultação ou inutilização de material de salvamento",3491
+3498,Difusão de doença ou praga,3491
+3500,Desastre ferroviário / Perigo de Desastre Ferroviário,3491
+3501,Atentado contra a segurança de transporte público,3491
+3502,Arremesso de projétil,3491
+3503,Atentado contra a segurança de serviços de utilidade pública ,3491
+3504,Interrupção /perturbação de serviços telegráficos/telefônicos,3491
+3505,Epidemia ,3491
+3506,Emprego de Processo Proibido/Substância não permitida,3491
+3507,Invólucro ou recipiente com falsa indicação ,3491
+3508,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,3491
+3509,"Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica",3491
+3510,Charlatanismo ,3491
+3511,Corrupção ou Poluição de Água Potável,3491
+3512,Curandeirismo ,3491
+3513,Envenenamento de Água Potável / Substância Alimentícia ou Medicinal,3491
+3514,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,3491
+3515,Infração de Medida Sanitária Preventiva,3491
+3516,Omissão de Notificação de Doença,3491
+3517,Outras Substâncias Nocivas a Saúde Pública ,3491
+3519,Substância Destinada à Falsificação,3491
+3520,Crimes contra a Paz Pública,287
+3521,Quadrilha ou Bando,3520
+3523,Crimes contra a Fé Pública,287
+3524,Moeda Falsa / Assimilados,3523
+3527,Petrechos para falsificação de moeda ,3523
+3528,Emissão de título ao portador sem permissão legal ,3523
+3529,Falsificação de papéis públicos ,3523
+3530,Falsificação do selo ou sinal público ,3523
+3531,Falsificação de documento público,3523
+3532,Falsificação de documento particular ,3523
+3533,Falsidade ideológica ,3523
+3534,Falso reconhecimento de firma ou letra,3523
+3535,Certidão ou atestado ideologicamente falso ,3523
+3536,Falsidade material de atestado ou certidão ,3523
+3537,Falsidade de atestado médico ,3523
+3538,Reprodução ou adulteração de selo ou peça filatélica ,3523
+3539,Uso de documento falso ,3523
+3540,Supressão de documento ,3523
+3541,"Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins ",3523
+3542,Falsa identidade ,3523
+3543,Fraude de lei sobre estrangeiros,3523
+3545,Petrechos de Falsificação de Papéis Públicos,3523
+3546,Adulteração de Sinal Identificador de Veículo Automotor,3523
+3547,Crimes Praticados por Funcionários Públicos Contra a Administração em Geral,287
+3548,Peculato,3547
+3550,Peculato mediante erro de outrem,3547
+3551,"Extravio, sonegação ou inutilização de livro ou documento ",3547
+3552,Emprego irregular de verbas ou rendas públicas ,3547
+3553,Concussão ,3547
+3554,Excesso de exação ,3547
+3555,Corrupção passiva ,3547
+3557,Prevaricação,3547
+3558,Condescendência criminosa,3547
+3559,Advocacia administrativa ,3547
+3560,Violência arbitrária ,3547
+3561,Abandono de função ,3547
+3562,Exercício funcional ilegalmente antecipado ou prolongado ,3547
+3563,Violação do sigilo funcional ,3547
+3564,Violação do sigilo de proposta de concorrência ,3547
+3565,Usurpação de função pública ,5872
+3566,Resistência ,5872
+3567,Tráfico de influência ,5872
+3568,Corrupção ativa ,5872
+3569,"Impedimento, perturbação ou fraude de concorrência",5872
+3570,Inutilização de edital ou de sinal ,5872
+3571,Subtração ou inutilização de livro ou documento ,5872
+3572,Desobediência ,5872
+3573,Desacato ,5872
+3576,Denunciação caluniosa ,5874
+3577,Comunicação falsa de crime ou de contravenção ,5874
+3578,Auto-acusação falsa,5874
+3579,Falso testemunho ou falsa perícia ,5874
+3580,Coação no curso do processo ,5874
+3581,Exercício arbitrário das próprias razões ,5874
+3582,Fraude processual,5874
+3583,Favorecimento pessoal ,5874
+3584,Favorecimento real ,5874
+3585,Exercício arbitrário ou abuso de poder ,5874
+3586,Fuga de pessoa presa ou submetida a medida de segurança ,5874
+3587,Evasão mediante violência contra a pessoa ,5874
+3588,Arrebatamento de preso ,5874
+3589,Motim de presos ,5874
+3590,Patrocínio infiel ,5874
+3591,Patrocínio simultâneo ou tergiversação ,5874
+3592,Sonegação de papel ou objeto de valor probatório ,5874
+3593,Exploração de prestígio ,5874
+3594,Violência ou fraude em arrematação judicial,5874
+3595,Desobediência a decisão judicial sobre perda ou suspensão de direitos ,5874
+3596,Inserção de dados falsos em sistema de informações ,3547
+3597,Modificação ou alteração não autorizada de sistema de informações ,3547
+3598,Sonegação de contribuição previdenciária ,5872
+3603,Crimes Previstos na Legislação Extravagante,287
+3604,Crimes de Responsabilidade,3603
+3605,Crimes contra a Economia Popular,3603
+3606,Crimes de Abuso de Autoridade,3603
+3607,Crimes de Tráfico Ilícito e Uso Indevido de Drogas,3603
+3608,Tráfico de Drogas e Condutas Afins,3607
+3613,Crimes Resultante de Preconceito de Raça ou de Cor,3603
+3614,Crimes contra a Ordem Tributária,3603
+3615,Crimes contra a Ordem Econômica,3603
+3616,Crimes contra as Relações de Consumo,3603
+3617,Representação caluniosa,3603
+3618,Crimes contra o Meio Ambiente e o Patrimônio Genético,3603
+3619,Crimes contra a Fauna,3618
+3620,Crimes contra a Flora,3618
+3621,Da Poluição,3618
+3622,Agrotóxicos ,3618
+3624,Caça ,3618
+3627,Pesca ,3618
+3628,"Crimes de ""Lavagem"" ou Ocultação de Bens, Direitos ou Valores",3603
+3629,Crimes contra as Telecomunicações,3603
+3630,Crimes Previstos na Lei de Estrangeiros,3603
+3631,Crimes de Tortura,3603
+3632,Crimes de Trânsito,3603
+3633,Crimes do Sistema Nacional de Armas,3603
+3634,Crimes de Imprensa,3603
+3637,Crimes Previstos no Estatuto da criança e do adolescente,3603
+3638,Crimes contra o mercado de capitais,3603
+3640,Crimes de genocídio,3603
+3641,Sigilo Telefônico,3603
+3642,Crimes da Lei de licitações,3603
+3643,Crimes da Lei de remoção de órgãos e tecidos,3603
+3647,Crimes praticados contra os índios e a cultura indígena,3603
+3650,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",3603
+3651,Crimes Agrários,3603
+3653,Crimes relacionados à Comissão Parlamentar de Inquérito,3603
+3655,Crime de Quebra de Sigilo Financeiro,3603
+3656,Crimes do Código Brasileiro de Telecomunicações,3603
+3659,Crimes Previstos no Estatuto do Idoso,3603
+3660,Parcelamento do solo urbano,3603
+3661,Crimes Falimentares,3603
+3692,Contravenções Penais,287
+4263,Ação Penal,1209
+4291,Jurisdição e Competência,1209
+4310,Fiança,1209
+4435,Aplicabilidade,1695
+4437,Revisão,2135
+4438,Anulação,1695
+4442,Restituição / Indenização de Despesa,2581
+4452,Representação Sindical,1697
+4654,Propriedade Intelectual / Industrial,10448
+4656,Direito Autoral,4654
+4660,Patente,4654
+4670,Desenho Industrial,4654
+4680,Marca,4654
+4701,Ato / Negócio Jurídico,7947
+4703,"Defeito, nulidade ou anulação",4701
+4706,Evicção ou Vicio Redibitório,4701
+4718,Cessão de Crédito,7688
+4728,Câmbio,9580
+4794,Parceria Agrícola e/ou pecuária,9580
+4805,Previdência privada,9580
+4813,Representação comercial,9580
+4829,Atraso de vôo,4862
+4830,Cancelamento de vôo,4862
+4831,Overbooking,4862
+4832,Extravio de bagagem,4862
+4839,Sistema Financeiro da Habitação,9580
+4840,Equivalência salarial,4839
+4841,Quitação,4839
+4842,Reajuste de Prestações,4839
+4843,Transferência de Financiamento (contrato de gaveta),4839
+4846,Sustação/Alteração de Leilão,4839
+4847,Seguro,4839
+4854,Revisão do Saldo Devedor,4839
+4862,Transporte Aéreo,7771
+4897,Associação,9981
+4899,Assembléia,4897
+4902,Eleição,4897
+4904,Extinção,4897
+4905,Fundação de Direito Privado,9981
+4907,Assembléia,4905
+4909,Eleição,4905
+4910,Extinção,4905
+4933,Apuração de haveres,5724
+4934,Constituição,5724
+4935,Dissolução,5724
+4939,Desconsideração da Personalidade Jurídica,5724
+4940,Ingresso e Exclusão dos Sócios na Sociedade,5724
+4942,Responsabilidade dos sócios e administradores,5724
+4943,Transferência de cotas,5724
+4949,Títulos de Crédito,7681
+4951,Anulação,4949
+4957,Requisitos,4949
+4960,Cédula de Crédito Bancário,7717
+4961,Cédula de Crédito à Exportação,7717
+4962,Cédula de Crédito Comercial,7717
+4963,Cédula de Crédito Industrial,7717
+4964,Cédula de Crédito Rural,7717
+4968,Cédula de Produto Rural,7717
+4969,Cédula Hipotecária,7717
+4970,Cheque,7717
+4971,Debêntures,7717
+4972,Duplicata,7717
+4973,Letra de Câmbio,7717
+4974,Nota de Crédito Comercial,7717
+4975,Nota de Crédito Industrial,7717
+4976,Nota de Crédito Rural,7717
+4980,Nota Promissória,7717
+4981,Warrant,7717
+4993,Recuperação judicial e Falência,9616
+4994,Recuperação extrajudicial,4993
+4998,Autofalência,4993
+5000,Concurso de Credores,4993
+5001,Liquidação,4993
+5003,Revogação de atos praticados em prejuízo de credores e da massa,4993
+5009,Mercado de Capitais,9616
+5010,Bolsa de Valores,5009
+5193,Engajamento e Profissionais Marítimos,7783
+5194,Seguros Marítimos,7783
+5196,Aluguel de Embarcações (Fretamento E Carta Partida),7783
+5269,Mínimo,2458
+5276,Advogados,7644
+5277,Aeronautas,7644
+5278,Artistas,7644
+5279,Atleta Profissional,7644
+5280,Bancários,7644
+5281,Cabineiros de Elevador,7644
+5282,Doméstico,7644
+5284,"Engenheiro, Arquiteto e Engenheiro Agrônomo",7644
+5286,Jornalistas,7644
+5287,Marítimos,7644
+5288,Digitadores / Mecanógrafos / Datilógrafos,7644
+5289,Médicos,7644
+5290,Mineiros de Subsolos,7644
+5291,Músicos Profissionais,7644
+5292,Operadores de Carga e Descarga (Estiva e Capatazia),7644
+5293,Operadores Cinematográficos,7644
+5294,Professores,7644
+5295,Químicos,7644
+5296,Radialistas,7644
+5297,Serviços de Telefonia ou Telegrafia,7644
+5299,Petroleiros,7644
+5301,Vigia e Vigilantes,7644
+5356,Grupo Econômico,1937
+5555,Crime Tentado,287
+5556,Grave,3385
+5557,Gravíssima,3385
+5558,Privilegiada,3385
+5560,Decorrente de Violência Doméstica,3385
+5564,Furto Privilegiado,3415
+5565,Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior,3415
+5566,Roubo Majorado,3415
+5567,Latrocínio,3415
+5568,Extorsão mediante Seqüestro Seguida de Morte,3415
+5569,Extorsão mediante Sequestro Seguida de Lesão Corporal Grave,3415
+5570,Supressão ou Alteração de Marca em Animais,3415
+5571,Dano Qualificado,3415
+5572,Apropriação de Tesouro,3415
+5573,Apropriação de Coisa Achada,3415
+5575,Abandono,7784
+5577,Acidentes da Navegação,7784
+5585,Registro / Cadastro do Armador,1146
+5589,Arresto de Embarcação,7784
+5591,Assistência / Salvamento,7784
+5592,Avaria,7784
+5595,Responsabilidade do Comandante ou Capitão,1146
+5603,Inscrição / Registro da Embarcação,1146
+5609,Hipoteca Marítima,7783
+5612,Créditos / Privilégios Marítimos,7783
+5621,Serviços Auxiliares da Navegação,1146
+5622,Agenciamento,5621
+5623,Corretagem de Embarcação,5621
+5624,Praticagem,5621
+5626,Família,899
+5632,Prescrição e Decadência,7947
+5680,Edição,9580
+5724,Sociedade ,9616
+5754,Pessoas naturais,899
+5779,Alimentos,5626
+5787,Exoneração,5779
+5788,Revisão,5779
+5801,Busca e Apreensão de Menores,10577
+5802,Guarda,10577
+5804,Investigação de Paternidade,10577
+5805,Regulamentação de Visitas,10577
+5808,Casamento,5626
+5813,Nulidade / Anulação,5808
+5825,Nulidade e Anulação de Testamento,7673
+5829,Nulidade e Anulação de Partilha e Adjudicação de Herança,7673
+5831,Sub-rogação de Vinculo,7673
+5832,Exclusão de herdeiro ou legatário,7673
+5833,Petição de Herança,7673
+5834,Deserdação,7673
+5835,Disposição de coisa alheia como própria,3415
+5836,Alienação ou Oneração Fraudulenta de Coisa Própria,3415
+5837,Defraudação de Penhor,3415
+5838,Fraude na Entrega de Coisa,3415
+5839,Fraude para Recebimento de Indenização ou Valor de Seguro,3415
+5840,Fraude no Pagamento por Meio de Cheque,3415
+5841,Duplicata Simulada,3415
+5842,Abuso de Incapazes,3415
+5843,Induzimento à Especulação,3415
+5844,Fraude no Comércio,3415
+5845,Fraudes e Abusos na Fundação ou Administração de Sociedade por Ações,3415
+5846,"Emissão Irregular de Conhecimento de Depósito ou ""Warrant""",3415
+5847,Receptação Qualificada,3415
+5850,Posse Sexual Mediante Fraude,3463
+5851,Assédio Sexual,3463
+5852,Favorecimento da Prostituição,3463
+5853,Casa de Prostituição,3463
+5854,Rufianismo,3463
+5855,Tráfico Internacional de Pessoas,3463
+5856,Tráfico Interno de Pessoas,3463
+5862,Fabrico / Fornecimento / Aquisição / Posse ou Transporte de Explosivos ou Gás Tóxico ou Asfixiante,3491
+5865,Crime Culposo,287
+5866,Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275 ,3491
+5867,Medicamento em Desacordo com Receita Médica,3491
+5869,Incitação ao Crime,3520
+5870,Apologia de Crime ou Criminoso,3520
+5872,Crimes Praticados por Particular Contra a Administração em Geral,287
+5873,Crimes Praticados por Particular Contra a Administração Pública Estrangeira,287
+5874,Crimes Contra a Administração da Justiça,287
+5875,Crimes Contra as Finanças Públicas,287
+5878,Crimes contra Patente de Invenção,3438
+5879,Crimes contra os Desenhos Industriais,3438
+5880,Crimes contra as Marcas,3438
+5881,"Crimes Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda ",3438
+5882,Crimes contra Indicações Geeográficas e Demais Indicações,3438
+5883,Crimes de Concorrência Desleal,3438
+5885,Posse de Drogas para Consumo Pessoal,3607
+5893,Crime Contra a Administração da Justiça - Lei da Ação de Alimentos ,3603
+5894,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins ,3607
+5895,"Indução, Instigação ou Auxílio ao Uso de Drogas",3607
+5896,Oferecimento de Drogas para Consumo Conjunto,3607
+5897,Associação para a Produção e Tráfico e Condutas Afins,3607
+5898,Financiamento ou Custeio de Produção ou Tráfico de Drogas,3607
+5899,"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas ",3607
+5900,Prescrição Culposa de Drogas,3607
+5901,Condução de Embarcação ou Aeronave sob Efeito de Drogas,3607
+5903,Contratação de Operação de Crédito,5875
+5904,Inscrição de Despesas Não Empenhadas,5875
+5905,Assunção de Obrigação no Último Ano do Mandato ou Legislatura,5875
+5906,Ordenação de Despesa Não Autorizada,5875
+5907,Prestação de Garantia Graciosa,5875
+5908,Não Cancelamento de Restos a Pagar,5875
+5909,Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura,5875
+5910,Oferta Pública ou Colocação de Títulos no Mercado,5875
+5911,Perigo de Contágio Venéreo,3388
+5913,Limitações ao Poder de Tributar,14
+5914,Imunidade ,5913
+5915,Isenção,5913
+5916,Impostos,14
+5917,IRPF/Imposto de Renda de Pessoa Física,5916
+5933,IRPJ/Imposto de Renda de Pessoa Jurídica,5916
+5941,II/ Imposto sobre Importação,5916
+5944,IE/ Imposto sobre Exportação,5916
+5945,IPI/ Imposto sobre Produtos Industrializados,5916
+5946,ICMS/ Imposto sobre Circulação de Mercadorias,5916
+5947,ICMS/Importação,5946
+5948,"IOC/IOF Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários",5916
+5950,ITR/ Imposto Territorial Rural,5916
+5951,ISS/ Imposto sobre Serviços,5916
+5952,IPTU/ Imposto Predial e Territorial Urbano,5916
+5953,IPVA - Imposto Sobre Propriedade de Veículos Automotores,5916
+5954,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,5916
+5955,ITCD - Imposto de Transmissão Causa Mortis,5916
+5956,Taxas,14
+5957,Federais,5956
+5958,Taxa Anual por Hectare,5957
+5959,Taxa de Armazenamento,5957
+5960,Taxa de Despacho Aduaneiro,5957
+5961,Taxa de Exploração Mineral,5957
+5962,Taxa de Fiscalização Ambiental,5957
+5963,Taxa de Guia de Importação,5957
+5964,Taxa de Licença de Importação,5957
+5965,Taxa de Melhoramento de Portos,5957
+5966,Taxa de Permanência,5957
+5967,Taxa de Saúde Suplementar,5957
+5968,Taxa de Fiscalização da Comissão de Valores Mobiliários,5957
+5969,Taxa Judiciária,5957
+5970,Taxa de Aferição de Equipamentos de Metrologia,5957
+5971,Estaduais,5956
+5972,Municipais,5956
+5973,Empréstimos Compulsórios,14
+5974,Aquisição de veículos automotores,5973
+5975,Aquisição de combustíveis,5973
+5976,Aquisição de passagens e moedas - Viagem Exterior,5973
+5977,Energia Elétrica,5973
+5978,Obrigação Tributária,14
+5979,Responsabilidade tributária,5978
+5980,Responsabilidade Tributária do Sócio-Gerente / Diretor / Representante,5979
+5981,Substituição Tributária,5979
+5982,DIMOB/Declaração de Informações sobre Atividades Imobilíárias,5978
+5983,CNPJ/Cadastro Nacional de Pessoas Jurídicas,5978
+5984,CPF/Cadastro de Pessoas Físicas,5978
+5985,Obrigação Acessória,5978
+5986,Crédito Tributário,14
+5987,Suspensão da Exigibilidade,5986
+5988,Carta de fiança,5987
+5989,Parcelamento,5987
+5990,Extinção do Crédito Tributário,5986
+5991,Compensação com Apólices da Dívida Pública,5990
+5992,Prescrição,5990
+5993,Decadência,5990
+5994,Compensação,5990
+5995,TDA/Títulos da Dívida Agrária,5990
+5996,Anistia,5986
+5997,Denúncia espontânea,5986
+5998,Lançamento,5986
+5999,CND/Certidão Negativa de Débito,5986
+6000,Expedição de CND,5999
+6001,Expedição de Certidão Positiva de Débito com Efeito de Negativa,5999
+6002,Certificado de Regularidade - FGTS,5999
+6003,Incentivos fiscais,5986
+6004,Anulação de Débito Fiscal,5986
+6005,Juros/Correção Monetária,5986
+6006,Prazo de Recolhimento,5986
+6007,Repetição de indébito,5986
+6008,Base de Cálculo,5986
+6009,Crédito Prêmio,5986
+6010,Crédito Presumido,5986
+6011,Fato Gerador/Incidência,5986
+6012,Alíquota,5986
+6013,Alíquota Zero,6012
+6014,Alíquota Progressiva,6012
+6015,Índice da Alíquota,6012
+6016,Creditamento,5986
+6017,Dívida Ativa,14
+6018,Processo Administrativo Fiscal,14
+6019,Depósito Prévio ao Recurso Administrativo,6018
+6020,Arrolamento de Bens,6018
+6021,Procedimentos Fiscais,14
+6022,Sigilo Fiscal,6021
+6023,Utilização de Dados Relativos à CPMF para Fins de Fiscalização,6022
+6024,Liberação de mercadorias,6021
+6025,Levantamento de depósito,6021
+6026,Cadastro de Inadimplentes - CADIN,6021
+6027,Autorização para Impressão de Documentos Fiscais - AIDF,6021
+6028,Liberação de Veículo Apreendido,6021
+6029,Perdimento de Bens,6021
+6030,"GATT - ""Acordo Geral sobre Tarifas e Comércio""",14
+6031,Contribuições,14
+6032,Contribuições de Melhoria,6031
+6033,Contribuições Sociais,6031
+6034,Finsocial,6033
+6035,Cofins,6033
+6036,Contribuição Social sobre o Lucro Líquido,6033
+6037,Salário-Educação,6033
+6038,Seguro Acidentes do Trabalho,6033
+6039,PIS,6033
+6040,Funrural,6033
+6041,Contribuição INCRA,6033
+6042,PASEP,6033
+6043,Construção Civil,6033
+6044,Contribuições Corporativas,6031
+6045,"Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",6044
+6046,Conselhos Regionais e Afins (Anuidade),6044
+6047,Contribuição Sindical,6044
+6048,Contribuições Previdenciárias,6031
+6049,Servidores Ativos,6048
+6050,Servidores Inativos,6048
+6051,Mandato Eletivo/Lei 9.506/97,6048
+6052,Aposentadoria/Retorno aoTrabalho,6048
+6053,Cargo em Comissão,6048
+6054,Tempo de Serviço Urbano/Contribuições não Recolhidas,6048
+6055,Tempo de Serviço Rural/Contribuições não Recolhidas,6048
+6056,Gratificação Natalina/13º Salário,6048
+6057,Produção Agropecuária,6048
+6058,Indenização Trabalhista,6048
+6059,Reembolso auxílio-creche,6048
+6060,Contribuição sobre a folha de salários,6048
+6061,Devolução de contribuições previdenciárias pagas além do teto,6048
+6062,1/3 de férias,6048
+6063,Auxílio-Alimentação,6048
+6064,Custeio de Assistência Médica,6048
+6065,Hora Extra,6048
+6066,Massa Falida- Recolhimento,6048
+6067,Nota Fiscal ou Fatura,6048
+6068,Salário-Maternidade,6048
+6069,Contribuição sobre Nota Fiscal de Execução de Serviços,6048
+6070,"Contribuição de Autônomos, Empresários (Pró-labore) e Facultativos",6048
+6071,Contribuições Especiais,6031
+6072,FNT/Fundo Nacional de Telecomunicações,6071
+6073,ATP/Adicional de Tarifa Portuária,6071
+6074,AITP/Adicional de Indenização do Trabalhador Portuário Avulso,6071
+6075,Adicional de Tarifa Aeroportuária,6071
+6076,AFRMM/Adicional ao Frete para Renovação da Marinha Mercante ,6071
+6077,FUNDEF/Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério,6071
+6078,Seguro Apagão (Lei 10.438/02),6071
+6079,Contribuição sobre licença de uso ou transferência de tecnologia,6071
+6080,Contribuição de Intervenção no Domínio Econômico (CIDE),6071
+6081,FUNDAF/Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização ,6071
+6082,FUSEX/FUNSA/FUSMA/Fundo de Saúde das Forças Armadas,6071
+6083,Contribuição de Iluminação Pública,6071
+6084,IUEE/Imposto Único sobre Energia Elétrica,6071
+6085,FGTS/Fundo de Garantia Por Tempo de Serviço,6071
+6086,Contribuição sobre Açúcar e Álcool,6071
+6087,CPMF/Contribuição Provisória sobre Movimentação Financeira,6071
+6088,Discriminação Tributária MERCOSUL,14
+6089,Regimes Especiais de Tributação,14
+6090,REFIS/Programa de Recuperação Fiscal,6089
+6091,PAES/Parcelamento Especial,6089
+6092,SIMPLES,6089
+6093,Super SIMPLES,6089
+6094,Benefícios em Espécie,195
+6095,Aposentadoria por Invalidez,6094
+6096,Aposentadoria por Idade (Art. 48/51),6094
+6097,Urbana (Art. 48/51),6096
+6098,Rural (Art. 48/51),6096
+6099,Aposentadoria por Tempo de Serviço (Art. 52/4),6094
+6100,Aposentadoria Especial (Art. 57/8),6094
+6101,Auxílio-Doença Previdenciário,6094
+6102,Salário-Família (Art. 65/70),6094
+6103,Salário-Maternidade (Art. 71/73),6094
+6104,Pensão por Morte (Art. 74/9),6094
+6105,Auxílio-Reclusão (Art. 80),6094
+6106,Pecúlios (Art. 81/5),6094
+6107,Auxílio-Acidente (Art. 86),6094
+6108,Incapacidade Laborativa Parcial,6107
+6109,Incapacidade Laborativa Permanente,6107
+6110,Incapacidade Laborativa Temporária,6107
+6111,Movimentos Repetitivos/Tenossinovite/LER/DORT,6107
+6112,Redução da Capacidade Auditiva,6107
+6113,Abono de Permanência em Serviço (Art. 87),6094
+6114,"Benefício Assistencial (Art. 203,V CF/88)",12734
+6115,Ferroviário,6094
+6116,Ex-combatentes,6094
+6117,Renda Mensal Vitalícia,6094
+6118,Aposentadoria por Tempo de Contribuição (Art. 55/6),6094
+6119,"RMI - Renda Mensal Inicial, Reajustes e Revisões Específicas",195
+6120,RMI - Renda Mensal Inicial,6119
+6121,RMI pelo art. 202 CF/88 (média dos 36 últimos salários-de-contribuição),6120
+6122,"RMI pelo art. 1º da Lei 6.423/77 - índices de atualização dos 24 1ºs salários-de-contribuição, anteriores aos 12 últimos)",6120
+6123,RMI pela equivalência entre Salário-de-Benefício e Salário-de-Contribuição,6120
+6124,RMI sem incidência de Teto Limitador,6120
+6125,RMI da pensão de dependente de ex-combatente,6120
+6126,"Benefício mínimo a partir da CF/88 (art. 201, § 2º CF/88)",6120
+6127,Parcelas e índices de correção do salário-de-contribuição,6120
+6128,Limitação do salário-de-benefício e da renda mensal inicial,6120
+6129,RMI cuja salário-de-benefício supera menor valor teto,6120
+6130,Escala de Salário-Base,6120
+6131,Contribuição sobre vinte salários mínimos,6120
+6132,Cálculo do Benefício de acordo com a Sistemática anterior à Lei 9.876/99,6120
+6133,"IRSM de Fevereiro de 1994(39,67%)",6120
+6134,Alteração do coeficiente de cálculo de pensão,6120
+6135,Alteração do coeficiente de cálculo do benefício,6120
+6136,Cálculo do benefício de segurado especial de acordo com a Lei 9.876/99,6120
+6137,Cálculo do fator previdenciário - Lei 9.876/99,6120
+6138,Reajustes e Revisões Específicos,6119
+6139,Reajuste pela Súmula 260 do TFR,6138
+6140,Art. 58 ADCT da CF/88,6138
+6141,Utilização do PNS no Reajuste de Benefícios,6138
+6142,Manutenção do Benefício pela equivalência salarial,6138
+6143,Expurgos inflacionários sobre os benefícios,6138
+6144,"Salário Mínimo de Ncz$ 120,00 para junho/89",6138
+6145,Reajuste de 147%,6138
+6146,Reajustamento pelo IGP-DI,6138
+6147,Aplicação de coeficiente de cálculo diverso do fixado na Lei n.º 8.213/91,6138
+6148,Reajuste aplicado ao salário mínimo em setembro/94,6138
+6149,Sistemática de conversão dos benefícios previdenciários em URVs,6138
+6150,Reajustamento pelo INPC,6138
+6151,Art. 144 da Lei 8.213/91 e/ou diferenças decorrentes,6138
+6152,"Gratificação Natalina a partir da CF/88 (Art. 201, § 6º CF/88)",6138
+6153,Abono da Lei 8.178/91,6138
+6154,"Índice de 4,02% da Lei 8.222/91",6138
+6155,Desconto do DL 1.910/81,6138
+6156,Descontos dos benefícios,6138
+6157,Correção Monetária pela Súmula 71 TFR,6138
+6158,Correção Monetária de Benefício pago com atraso,6138
+6159,Reajuste conforme Portaria MPAS 714/1993,6138
+6160,Disposições Diversas Relativas às Prestações,195
+6161,Habilitação e Reabilitação Profissional,6160
+6162,Decadência/Prescrição,6160
+6164,Declaração de Ausência,6160
+6165,Atividade concomitante,6160
+6166,Renúncia ao benefício,6160
+6167,Demonstrativo das importâncias pagas,6160
+6168,Períodos de Carência,6160
+6169,Limite Mínimo de Idade,6160
+6170,Perda da qualidade de segurado,6160
+6171,Inclusão de Dependente,6160
+6172,"Regra de Transição para Aposentadoria - ""Pedágio""",6160
+6173,Pedidos Genéricos Relativos aos Benefícios em Espécie,195
+6174,Data de Início de Benefício (DIB),6173
+6175,Cumulação,6173
+6176,Parcelas de benefício não pagas,6173
+6177,Concessão,6173
+6178,Restabelecimento,6173
+6179,Conversão,6173
+6181,Tempo de serviço,195
+6182,Averbação/Cômputo/Conversão de tempo de serviço especial,6181
+6183,Averbação/Cômputo de tempo de serviço de segurado especial (regime de economia familiar),6181
+6184,Averbação/Cômputo de tempo de serviço rural (empregado/empregador),6181
+6185,Averbação/Cômputo do tempo de serviço como aluno aprendiz,6181
+6186,Averbação/Cômputo do tempo de serviço militar,6181
+6187,Averbação/Cômputo de tempo de serviço de empregado doméstico,6181
+6188,Averbação/Cômputo de tempo de serviço urbano,6181
+6189,Certidão de Tempo de Serviço,6181
+6190,Contagem Recíproca de Tempo de Serviço,6181
+6191,DIREITO INTERNACIONAL,
+6203,Cooperação Internacional,6191
+6206,Auxílio Direto,6203
+6207,Mercosul,6203
+6213,Normas do Mercosul,6191
+6214,Casamento e Divórcio,6191
+6215,Sucessão de Bens de Estrangeiro,6191
+6216,Prestação de Alimentos,6191
+6218,Pessoa Jurídica Estrangeira,6191
+6219,Contratos Internacionais,6191
+6220,Responsabilidade do Fornecedor,1156
+6226,Inclusão Indevida em Cadastro de Inadimplentes,7779
+6233,Planos de Saúde,7771
+6238,Oferta,5779
+6239,Fixação,5779
+7617,Telefonia,7771
+7618,Turismo,7771
+7619,Consórcio,7771
+7620,Estabelecimentos de Ensino,7771
+7621,Seguro,7771
+7626,Assinatura Básica Mensal,7617
+7627,Pulsos Excedentes,7617
+7628,Outras Relações de Trabalho,864
+7629,Empreitada,7628
+7630,Representante Comercial Autônomo,7628
+7631,Honorários Profissionais,7628
+7632,Trabalhador Eventual,7628
+7633,Trabalhador Avulso,7628
+7639,Direito de Greve / Lockout,864
+7640,Interdito Proibitório,7639
+7644,Categoria Profissional Especial,864
+7645,Aeroviários,7644
+7646,Rural,7644
+7649,Aplicabilidade,2135
+7656,União Estável ou Concubinato,5626
+7657,Tutela e Curatela,5626
+7659,Regime de Bens Entre os Cônjuges,5626
+7660,Usufruto e Administração dos Bens de Filhos Menores,5626
+7661,Bem de Família (Voluntário),5626
+7664,Dissolução,5808
+7667,Investigação de Maternidade,10577
+7671,Adoção de Maior,10577
+7672,União Homoafetiva,7656
+7673,Sucessões,899
+7676,Administração de herança,7673
+7677,Reconhecimento / Dissolução,7656
+7681,Obrigações,899
+7687,Inventário e Partilha,7673
+7688,Transmissão,7681
+7689,Assunção de Dívida,7688
+7690,Adimplemento e Extinção,7681
+7691,Inadimplemento,7681
+7694,Atos Unilaterais,7681
+7696,Preferências e Privilégios Creditórios,7681
+7697,Correção Monetária,7691
+7698,Perdas e Danos,7691
+7699,Juros de Mora - Legais / Contratuais,7691
+7700,Cláusula Penal,7691
+7701,Arras ou Sinal,7691
+7703,Pagamento,7690
+7704,Pagamento em Consignação,7690
+7705,Pagamento com Sub-rogação,7690
+7706,Imputação do Pagamento,7690
+7707,Dação em Pagamento,7690
+7708,Novação,7690
+7709,Compensação,7690
+7710,Confusão,7690
+7711,Remissão das Dívidas,7690
+7712,Promessa de Recompensa,7694
+7713,Gestão de Negócios,7694
+7714,Pagamento Indevido,7694
+7715,Enriquecimento sem Causa,7694
+7717,Espécies de Títulos de Crédito,7681
+7724,REGISTROS PÚBLICOS,
+7725,Registro Civil das Pessoas Naturais,7724
+7729,Tabelionato de Protestos de Títulos,7724
+7732,Registro de nascimento após prazo legal,7725
+7735,Retificação de Nome ,7725
+7737,Cancelamento de Protesto,7729
+7748,Acidente Aéreo,4862
+7752,Bancários,7771
+7757,Auxílio-Doença Acidentário,6094
+7760,Fornecimento de Energia Elétrica,7771
+7761,Fornecimento de Água,7771
+7767,Substituição do Produto,6220
+7768,Rescisão do contrato e devolução do dinheiro,6220
+7769,Abatimento proporcional do preço ,6220
+7770,Interpretação / Revisão de Contrato,6220
+7771,Contratos de Consumo,1156
+7772,Cartão de Crédito,7771
+7773,Financiamento de Produto,7771
+7774,Serviços Profissionais,7771
+7775,Serviços Hospitalares,7771
+7776,Transporte Terrestre,7771
+7779,Indenização por Dano Moral,6220
+7780,Indenização por Dano Material,6220
+7781,Protesto Indevido de Título,7779
+7783,Responsabilidade Contratual,1146
+7784,Responsabilidade Extracontratual,1146
+7785,Prestação Pecuniária,7790
+7786,Perda de Bens e Valores,7790
+7787,Prestação de Serviços à Comunidade,7790
+7788,Interdição Temporária de Direitos,7790
+7789,Limitação de Fim de Semana,7790
+7790,Pena Restritiva de Direitos,7942
+7791,Pena Privativa de Liberdade,7942
+7792,Pena de Multa,7942
+7793,Medidas de Segurança,7942
+7794,Tratamento Ambulatorial,7793
+7795,Internação,7793
+7797,Quanto à Embarcação,7783
+7798,Quanto à Carga,7783
+7799,Clandestinos,7784
+7834,Retificação de Data de Nascimento,7725
+7835,Retificação de Sexo,7725
+7895,Registro de Imóveis,7724
+7896,Cancelamento de Hipoteca,7895
+7897,Inscrição na Matrícula de Registro Torrens,7895
+7898,Instituição de Bem de Família,7895
+7899,Bloqueio de Matrícula,7895
+7911,Por Remição,7896
+7912,Por Terceiro Prejudicado,7896
+7925,Registro de Óbito após prazo legal,7725
+7926,Registro de Nascimento de Filho de Brasileiro Nascido no Exterior,7725
+7928,Liberdade Provisória,1209
+7929,Prisão em flagrante,1209
+7935,Perempção,4263
+7942,Execução Penal e de Medidas Alternativas,1209
+7945,Falsidade,1209
+7947,Fatos Jurídicos,899
+7949,Direitos da Personalidade ,5754
+7952,Organizações Religiosas,9981
+7953,Partido Político,9981
+8805,Sucessão de Empregadores,1937
+8806,Subempreitada,1937
+8807,Sócio / Acionista,1937
+8808,Indenização por Dano Material,2567
+8809,Acidente de Trabalho,8808
+8810,Salário por Acúmulo de Cargo / Função,2458
+8812,Salário Maternidade,2458
+8813,Licenças e Folgas - Conversão em Pecúnia,2581
+8816,Salário Substituição,2458
+8817,Gratificação por Tempo de Serviço,2055
+8818,Gratificação de Função,2055
+8820,Décimo Terceiro Salário Proporcional,2546
+8821,Férias Proporcionais ,2546
+8822,Indenização Adicional,2546
+8823,Saldo de Salário,2546
+8824,Indenização do artigo 478 da CLT,2620
+8826,DIREITO PROCESSUAL CIVIL E DO TRABALHO,
+8828,Jurisdição e Competência,8826
+8829,Competência ,8828
+8838,Imunidade de Jurisdição,8828
+8842,Partes e Procuradores,8826
+8843,Assistência Judiciária Gratuita,8842
+8859,Intervenção de Terceiros ,8842
+8865,Litigância de Má-Fé,8842
+8866,Litisconsórcio ,8842
+8867,Substituição Processual,8842
+8868,Procuração ,8842
+8873,Representação em Juízo,8842
+8874,Sucumbência ,8842
+8875,Ministério Público,8826
+8883,Órgãos Judiciários e Auxiliares da Justiça,8826
+8884,Do Juiz,8883
+8888,Dos Auxiliares da Justiça,8883
+8893,Atos Processuais,8826
+8919,Nulidade,8893
+8928,Prazo,8893
+8934,Valor da Causa,8893
+8938,"Formação, Suspensão e Extinção do Processo",8826
+8939,Suspensão do Processo,8938
+8941,Modificação ou Alteração do Pedido,8938
+8942,Extinção do Processo Sem Resolução de Mérito,8938
+8960,Processo e Procedimento,8826
+8961,Antecipação de Tutela / Tutela Específica,8960
+8986,Erro de Procedimento,8960
+8990,Provas,8960
+9024,Revelia ,8960
+9026,Vícios Formais da Sentença,8960
+9045,Recurso,8826
+9050,Preparo/Deserção,9045
+9051,Desconfiguração de Justa Causa,1855
+9060,Prazo,9045
+9098,Cabimento,9045
+9148,Liquidação / Cumprimento / Execução,8826
+9149,Valor da Execução / Cálculo / Atualização,9148
+9160,Levantamento de Valor,9148
+9163,Penhora / Depósito/ Avaliação ,9148
+9166,Multa de 10%,9148
+9178,Inexequibilidade do Título / Inexigibilidade da Obrigação,9148
+9180,Expropriação de Bens,9148
+9189,Remição,9148
+9192,Tutela Provisória,8826
+9196,Liminar ,9192
+9258,Honorários Periciais,8842
+9414,Extinção da Execução,9148
+9418,Concurso de Credores,9148
+9450,Fraude à Execução,9148
+9453,Imunidade de Execução,9148
+9484,Sucessão,9148
+9493,Capacidade Processual,8842
+9494,Substituição da Parte,8842
+9517,Causas Supervenientes à Sentença,9148
+9518,Efeito Suspensivo / Impugnação / Embargos à Execução,9148
+9519,Benefício de Ordem,9148
+9520,Ato Atentatório à Dignidade da Justiça,9148
+9524,Indenização do Prejuízo,9192
+9532,Caução,9192
+9533,Coligação,5724
+9534,Transformação,5724
+9535,Incorporação,5724
+9536,Fusão,5724
+9537,Cisão,5724
+9538,Liquidação,5724
+9539,Alteração de capital,5724
+9541,Capacidade,5754
+9542,Curadoria dos bens do ausente,5754
+9543,Sucessão Provisória,5754
+9545,Inclusão de associado,4897
+9546,Exclusão de associado,4897
+9547,Fiscalização,4905
+9549,Exclusão de filiado,7953
+9550,Fusão,7953
+9551,Eleições - Diretórios,7953
+9555,Ineficácia de atos em relação à massa,4993
+9556,Convolação de recuperação judicial em falência,4993
+9558,Administração judicial,4993
+9559,Classificação de créditos,4993
+9565,Laudo Arbitral Internacional,6191
+9575,Sustação de Protesto,4949
+9580,Espécies de Contratos,7681
+9581,Agência e Distribuição,9580
+9582,Alienação Fiduciária,9580
+9583,Arrendamento Rural,9580
+9584,Arrendamento Mercantil,9580
+9585,Cartão de Crédito,9580
+9586,Comissão,9580
+9587,Compra e Venda,9580
+9588,Corretagem,9580
+9589,Depósito,9580
+9590,Doação,9580
+9591,Empreitada,9580
+9592,Fiança,9580
+9593,Locação de Imóvel,9580
+9594,Mandato,9580
+9595,Troca ou Permuta,9580
+9596,Prestação de Serviços,9580
+9597,Seguro,9580
+9598,Transação,9580
+9599,Transporte de Coisas,9580
+9600,Transporte de Pessoas,9580
+9601,Estimatório,9580
+9602,Comodato,9580
+9603,Mútuo,9580
+9604,Constituição de Renda,9580
+9605,Jogo e Aposta,9580
+9606,Compromisso,9580
+9607,Contratos Bancários,9580
+9608,Franquia,9580
+9609,Locação de Móvel,9580
+9610,Despejo para Uso Próprio,9593
+9611,Despejo para Uso de Ascendentes e Descendentes,9593
+9612,Despejo por Denúncia Vazia,9593
+9614,Benfeitorias,9593
+9615,Direito de Preferência,9593
+9616,Empresas,899
+9617,Espécies de Sociedades,9616
+9618,Conta de Participação,9617
+9619,Simples,9617
+9620,Nome Coletivo,9617
+9621,Comandita Simples,9617
+9622,Limitada,9617
+9623,Anônima,9617
+9624,Comandita por Ações,9617
+9625,Cooperativa,9617
+9626,Coligadas,9617
+9627,Dependente de Autorização,9617
+9629,Estrangeira,9617
+9633,DIREITO DA CRIANÇA E DO ADOLESCENTE,
+9634,Ato Infracional,9633
+9635,Contra a vida,9634
+9636,Homicídio Simples,9635
+9637,Homicídio Privilegiado,9635
+9638,Homicídio Qualificado,9635
+9639,"Induzimento, Instigação ou Auxílio a Suicídio",9635
+9640,Infanticídio,9635
+9641,Lesões Corporais,9634
+9642,Leve,9641
+9643,Seguida de Morte,9641
+9644,Grave,9641
+9645,Gravíssima,9641
+9646,Privilegiada,9641
+9647,Decorrente de Violência Doméstica,9641
+9648,Periclitação da Vida e da Saúde e Rixa,9634
+9649,Perigo de contágio de moléstia grave,9648
+9650,Perigo para a vida ou saúde de outrem (art. 132),9648
+9651,Abandono de incapaz (art. 133),9648
+9652,Omissão de socorro (art. 135),9648
+9653,Rixa (art. 137),9648
+9654,Perigo de Contágio Venéreo,9648
+9655,Contra a Honra,9634
+9656,Calúnia,9655
+9657,Difamação,9655
+9658,Injúria,9655
+9659,Contra a liberdade pessoal,9634
+9660,Constrangimento ilegal (art. 146),9659
+9661,Ameaça (art. 147),9659
+9662,Seqüestro e cárcere privado (art. 148),9659
+9663,Redução a condição análoga à de escravo (art. 149),9659
+9664,Contra a inviolabilidade de domicílio,9634
+9665,Violação de domicílio (art. 150),9664
+9666,Contra a inviolabilidade de correspondência,9634
+9667,"Violação de correspondência (art. 151, caput)",9666
+9668,"Sonegação ou destruição de correspondência (art. 151, § 1º, I)",9666
+9669,"Violação de comunicação telegráfica, radioelétrica ou telefônica (art. 151, § 1º, II, III e IV)",9666
+9670,Violação de Correspondência comercial (art. 152),9666
+9671,Contra a inviolabilidade de segredo,9634
+9672,Divulgação de segredo (art. 153),9671
+9673,Violação do segredo profissional (art. 154),9671
+9674,Contra o Patrimônio,9634
+9675,Furto (art. 155),9674
+9676,"Furto Qualificado (Art. 155, § 4o.)",9674
+9677,Furto de coisa comum (art. 156),9674
+9678,Roubo (art. 157),9674
+9679,Extorsão (art. 158),9674
+9680,Extorsão mediante seqüestro (art. 159),9674
+9681,Extorsão indireta (art. 160),9674
+9682,"Alteração de limites (art. 161, caput)",9674
+9683,"Usurpação de águas (art. 161, § 1º, I)",9674
+9684,"Esbulho possessório (art. 161, § 1º, II)",9674
+9685,Dano (art. 163),9674
+9686,Introdução ou abandono de animais em propriedade alheia (art. 164),9674
+9687,"Dano em coisa de valor artístico, arqueológico ou histórico (art. 165)",9674
+9688,Alteração de local especialmente protegido (art. 166),9674
+9689,Apropriação indébita Previdenciária (art. 168-A e Lei 8.212/91),9674
+9690,Estelionato,9674
+9691,"Estelionato Majorado (art. 171, § 3º)",9674
+9692,Outras fraudes,9674
+9693,Fraude à execução (art. 179),9674
+9694,Receptação,9674
+9695,"Apropriação indébita (art. 168, caput)",9674
+9696,"Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza (art.169)",9674
+9697,Furto Privilegiado,9674
+9698,Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior,9674
+9699,Roubo Majorado,9674
+9700,Latrocínio,9674
+9701,Extorsão mediante Seqüestro Seguida de Morte,9674
+9702,Extorsão mediante Sequestro Seguida de Lesão Corporal Grave,9674
+9703,Supressão ou Alteração de Marca em Animais,9674
+9704,Dano Qualificado,9674
+9705,Apropriação de Tesouro,9674
+9706,Apropriação de Coisa Achada,9674
+9707,Disposição de coisa alheia como própria,9674
+9708,Alienação ou Oneração Fraudulenta de Coisa Própria,9674
+9709,Defraudação de Penhor,9674
+9710,Fraude na Entrega de Coisa,9674
+9711,Fraude para Recebimento de Indenização ou Valor de Seguro,9674
+9712,Fraude no Pagamento por Meio de Cheque,9674
+9713,Duplicata Simulada,9674
+9714,Abuso de Incapazes,9674
+9715,Induzimento à Especulação,9674
+9716,Fraude no Comércio,9674
+9717,Fraudes e Abusos na Fundação ou Administração de Sociedade por Ações,9674
+9718,"Emissão Irregular de Conhecimento de Depósito ou ""Warrant""",9674
+9719,Receptação Qualificada,9674
+9720,Contra a Propriedade Intelectual,9634
+9721,Violação de direito autoral,9720
+9722,Contra a Organização do Trabalho,9634
+9723,Atentado contra a liberdade de trabalho (art. 197),9722
+9724,Atentado contra a liberdade de contrato de trabalho e boicotagem violenta (art. 198),9722
+9725,Atentado contra a liberdade de associação (art. 199),9722
+9726,"Paralisação de trabalho, seguida de violência ou perturbação da ordem (art. 200)",9722
+9727,Paralisação de trabalho de interesse coletivo (art. 201),9722
+9728,"Invasão de estabelecimento industrial, comercial ou agrícola. Sabotagem (art. 202)",9722
+9729,Frustração de direitos assegurados por lei trabalhista (art. 203),9722
+9730,Exercício de atividade com infração de decisão administrativa (art. 205),9722
+9731,Aliciamento para fins de emigração (art. 206),9722
+9732,Aliciamento de trabalhadores de um local para outro do território nacional (art. 207),9722
+9733,Frustração de lei sobre a nacionalização do trabalho (art. 204),9722
+9734,Contra o sentimento religioso e contra o respeito aos mortos,9634
+9735,Destruição / Subração / Ocultação de Cadáver,9734
+9736,Impedimento ou Perturbação de Cerimônia Funerária (Art. 209),9734
+9737,Vilipêndio a Cadáver,9734
+9738,Violação a Sepultura (Art. 210),9734
+9739,Ultraje / Impedimento ou Perturbação de Culto Religioso,9734
+9740,Contra a dignidade sexual,9634
+9741,Tráfico Internacional de Pessoa para Fim de Exploração Sexual ,9740
+9742,Estupro ,9740
+9743,Atentado Violento ao Pudor,9740
+9744,Atentado ao Pudor Mediante Fraude,9740
+9745,Corrupção de Menores,9740
+9746,Ultraje Público ao Pudor (Ato/Escrito Obsceno),9740
+9747,Mediação para Servir a Lascívia de Outrem ,9740
+9748,Posse Sexual Mediante Fraude,9740
+9749,Assédio Sexual,9740
+9750,Favorecimento da Prostituição,9740
+9751,Casa de Prostituição,9740
+9752,Rufianismo,9740
+9753,Tráfico Internacional de Pessoas,9740
+9754,Tráfico Interno de Pessoas,9740
+9755,Contra a Família,9634
+9756,Crimes Contra a Assistência Familiar,9755
+9757,Abandono Material,9756
+9758,Abandono Intelectual,9756
+9759,Entrega de Filho Menor a Pessoa Inidônea,9756
+9760,Crimes contra o Casamento,9755
+9761,Bigamia,9760
+9762,Conhecimento Prévio de Impedimento,9760
+9763,Induzimento a erro essencial e ocultação de impedimento,9760
+9764,Simulação de Casamento,9760
+9765,Simulação de Autoridade para Celebração de Casamento,9760
+9766,Crimes Contra o Estado de Filiação,9755
+9767,Parto Suposto (Art. 242),9766
+9768,Registro de Nascimento Inexistente (Art. 241),9766
+9769,Sonegação do Estado de Filiação (Art. 243),9766
+9770,Crime contra o Pátrio-Poder e Tutela,9755
+9771,"Induzimento a Fuga, Entrega Arbitrária ou Sonegação de Incapazes (Art. 248)",9770
+9772,Subtração de Incapazes (Art. 249),9770
+9773,Contra a Incolumidade Pública,9634
+9774,Incêndio,9773
+9775,Explosão ,9773
+9776,Uso de gás tóxico ou asfixiante ,9773
+9777,Inundação / Perigo de Inundação,9773
+9778,Desabamento ou desmoronamento (art. 256),9773
+9779,"Subtração, ocultação ou inutilização de material de salvamento (art. 257)",9773
+9780,Difusão de doença ou praga (art. 259),9773
+9781,Desastre ferroviário / Perigo de Desastre Ferroviário,9773
+9782,Atentado contra a segurança de transporte público,9773
+9783,Arremesso de projétil,9773
+9784,Atentado contra a segurança de serviços de utilidade pública (art. 265),9773
+9785,Interrupção /perturbação de serviços telegráficos/telefônicos (art. 266),9773
+9786,Epidemia (art. 267),9773
+9787,Emprego de Processo Proibido/Substância não permitida,9773
+9788,Invólucro ou recipiente com falsa indicação (art. 275),9773
+9789,Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais,9773
+9790,"Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica (art. 282)",9773
+9791,Charlatanismo (Art. 283),9773
+9792,Corrupção ou Poluição de Água Potável (Art. 271),9773
+9793,Curandeirismo (Art. 284),9773
+9794,Envenenamento de Água Potável / Substância Alimentícia ou Medicinal (Art. 270),9773
+9795,Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios,9773
+9796,Infração de Medida Sanitária Preventiva (Art. 268),9773
+9797,Omissão de Notificação de Doença (Art. 269),9773
+9798,Outras Substâncias Nocivas a Saúde Pública (Art. 278),9773
+9799,Substância Destinada à Falsificação (Art. 277),9773
+9800,Fabrico / Fornecimento / Aquisição / Posse ou Transporte de Explosivos ou Gás Tóxico ou Asfixiante,9773
+9801,Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275 ,9773
+9802,Medicamento em Desacordo com Receita Médica,9773
+9803,Contra a Paz Pública,9634
+9804,Quadrilha ou Bando (art. 288),9803
+9805,Incitação ao Crime,9803
+9806,Apologia de Crime ou Criminoso,9803
+9807,Contra a Fé Pública,9634
+9808,Moeda Falsa / Assimilados,9807
+9809,Petrechos para falsificação de moeda (art. 291),9807
+9810,Emissão de título ao portador sem permissão legal (art. 292),9807
+9811,Falsificação de papéis públicos (art. 293),9807
+9812,Falsificação do selo ou sinal público (art. 296),9807
+9813,Falsificação de documento público,9807
+9814,Falsificação de documento particular (art. 298),9807
+9815,Falsidade ideológica (art. 299),9807
+9816,Falso reconhecimento de firma ou letra (art. 300),9807
+9817,"Certidão ou atestado ideologicamente falso (art. 301, caput)",9807
+9818,"Falsidade material de atestado ou certidão (art. 301, § 1º)",9807
+9819,Falsidade de atestado médico (art. 302),9807
+9820,Reprodução ou adulteração de selo ou peça filatélica (art. 303),9807
+9821,Uso de documento falso (art. 304),9807
+9822,Supressão de documento (art. 305),9807
+9823,"Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins (art. 306)",9807
+9824,Falsa identidade ,9807
+9825,Fraude de lei sobre estrangeiros,9807
+9826,Petrechos de Falsificação de Papéis Públicos,9807
+9827,Adulteração de Sinal Identificador de Veículo Automotor,9807
+9828,Praticados por Funcionários Públicos Contra a Administração em Geral,9634
+9829,"Peculato (art. 312, caput e § 1º)",9828
+9830,Peculato mediante erro de outrem (art. 313),9828
+9831,"Extravio, sonegação ou inutilização de livro ou documento (art. 314)",9828
+9832,Emprego irregular de verbas ou rendas públicas (art. 315),9828
+9833,"Concussão (art. 316, caput)",9828
+9834,"Excesso de exação (art. 316, §§ 1º e 2º)",9828
+9835,Corrupção passiva (art. 317),9828
+9836,Facilitação de contrabando ou descaminho (art. 318),9828
+9837,Prevaricação,9828
+9838,Condescendência criminosa (art. 320),9828
+9839,Advocacia administrativa (art. 321),9828
+9840,Violência arbitrária (art. 322),9828
+9841,Abandono de função (art. 323),9828
+9842,Exercício funcional ilegalmente antecipado ou prolongado (art. 324),9828
+9843,Violação do sigilo funcional (art. 325),9828
+9844,Violação do sigilo de proposta de concorrência (art. 326),9828
+9845,Inserção de dados falsos em sistema de informações (art. 313-A),9828
+9846,Modificação ou alteração não autorizada de sistema de informações (art. 313-B),9828
+9847,Previstos na Legislação Extravagante,9634
+9848,Contra a Propriedade Industrial,9847
+9849,Contra Patente de Invenção,9848
+9850,Contra os Desenhos Industriais,9848
+9851,Contra as Marcas,9848
+9852,"Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda ",9848
+9853,Contra Indicações Geográficas e Demais Indicações,9848
+9854,De Concorrência Desleal,9848
+9855,de Responsabilidade,9847
+9856,Contra a Economia Popular,9847
+9857,de Abuso de Autoridade,9847
+9858,De Tráfico Ilícito e Uso Indevido de Drogas,9847
+9859,Tráfico de Drogas e Condutas Afins,9858
+9860,Posse de Drogas para Consumo Pessoal,9858
+9861,Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins ,9858
+9862,"Indução, Instigação ou Auxílio ao Uso de Drogas",9858
+9863,Oferecimento de Drogas para Consumo Conjunto,9858
+9864,Associação para a Produção e Tráfico e Condutas Afins,9858
+9865,Financiamento ou Custeio de Produção ou Tráfico de Drogas,9858
+9866,"Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas ",9858
+9867,Prescrição Culposa de Drogas,9858
+9868,Condução de Embarcação ou Aeronave sob Efeito de Drogas,9858
+9869,Responsabilidade Criminal por Danos Nucleares,9847
+9870,Contra o Serviço Postal e o Serviço de Telegrama,9847
+9871,"Contra a Segurança Nacional, a Ordem Política e Social",9847
+9872,Contra o Sistema Financeiro Nacional,9847
+9873,Resultante de Preconceito de Raça ou de Cor,9847
+9874,Contra a Ordem Tributária,9847
+9875,Contra a Ordem Econômica,9847
+9876,Contra as Relações de Consumo,9847
+9877,Representação caluniosa,9847
+9878,Contra o Meio Ambiente,9847
+9879,Contra a Fauna,9878
+9880,Contra a Flora,9878
+9881,Da Poluição,9878
+9882,Agrotóxicos (Lei 7.802/89),9878
+9883,Atividades Nucleares (Lei 6.453/77),9878
+9884,Caça (Lei nº 5.197/67),9878
+9886,Genética (Lei nº 8.974/95),9878
+9887,"Pesca (Lei nº 5.197/67, Lei nº 7.643/87, Lei 7.679/88, DL 221/67)",9878
+9888,"De ""Lavagem"" ou Ocultação de Bens, Direitos ou Valores",9847
+9889,Contra as Telecomunicações,9847
+9890,Previstos na Lei de Estrangeiros,9847
+9891,De Tortura,9847
+9892,De Trânsito,9847
+9893,Do Sistema Nacional de Armas,9847
+9894,De Imprensa,9847
+9895,Estatuto da criança e do adolescente,9847
+9896,Contra o mercado de capitais,9847
+9897,De genocídio,9847
+9898,Sigilo Telefônico,9847
+9899,Da Lei de licitações,9847
+9900,Da Lei de remoção de órgãos e tecidos,9847
+9901,Praticados contra os índios e a cultura indígena,9847
+9903,"Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública",9847
+9904,Agrários,9847
+9905,Relacionados à Comissão Parlamentar de Inquérito,9847
+9906,Eleitorais,9847
+9907,De Quebra de Sigilo Financeiro,9847
+9908,Do Código Brasileiro de Telecomunicações,9847
+9909,Estatuto do Idoso,9847
+9910,Parcelamento do solo urbano,9847
+9911,Falimentares,9847
+9912,Militares,9847
+9913,Contra a Administração da Justiça - Lei da Ação de Alimentos ,9847
+9914,Contravenções Penais,9634
+9915,Análogo a Crime Tentado,9634
+9916,Análogo a Crime Culposo,9634
+9917,Praticados por Particular Contra a Administração em Geral,9634
+9918,Usurpação de função pública (art. 328),9917
+9919,Resistência (art. 329),9917
+9920,Tráfico de influência (art. 332),9917
+9921,Corrupção ativa (art. 333),9917
+9922,"Impedimento, perturbação ou fraude de concorrência (art. 335)",9917
+9923,Inutilização de edital ou de sinal (art. 336),9917
+9924,"Subtração ou inutilização de livro ou documento (art. 337, caput)",9917
+9925,Desobediência (art. 330),9917
+9926,Desacato (art. 331),9917
+9927,Contrabando ou descaminho (art. 334),9917
+9928,Sonegação de contribuição previdenciária (art. 337-A e Lei 8.212/91),9917
+9929,Praticados por Particular Contra a Administração Pública Estrangeira,9634
+9930,Corrupção Ativa em Transação Comercial Internacional,9929
+9931,Tráfico de Influência em Transação Comercial Internacional,9929
+9932,Contra a Administração da Justiça,9634
+9933,Reingresso de estrangeiro expulso,9932
+9934,Denunciação caluniosa,9932
+9935,Comunicação falsa de crime ou de contravenção,9932
+9936,Auto-acusação falsa,9932
+9937,Falso testemunho ou falsa perícia,9932
+9938,Coação no curso do processo,9932
+9939,Exercício arbitrário das próprias razões,9932
+9940,Fraude processual,9932
+9941,Favorecimento pessoal,9932
+9942,Favorecimento real,9932
+9943,Exercício arbitrário ou abuso de poder,9932
+9944,Fuga de pessoa presa ou submetida a medida de segurança,9932
+9945,Evasão mediante violência contra a pessoa,9932
+9946,Arrebatamento de preso,9932
+9947,Motim de presos,9932
+9948,Patrocínio infiel,9932
+9949,Patrocínio simultâneo ou tergiversação,9932
+9950,Sonegação de papel ou objeto de valor probatório,9932
+9951,Exploração de prestígio,9932
+9952,Violência ou fraude em arrematação judicial,9932
+9953,Desobediência a decisão judicial sobre perda ou suspensão de direitos,9932
+9955,Contra as Finanças Públicas,9634
+9956,Contratação de Operação de Crédito,9955
+9957,Inscrição de Despesas Não Empenhadas,9955
+9958,Assunção de Obrigação no Último Ano do Mandato ou Legislatura,9955
+9959,Ordenação de Despesa Não Autorizada,9955
+9960,Prestação de Garantia Graciosa,9955
+9961,Não Cancelamento de Restos a Pagar,9955
+9962,Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura,9955
+9963,Oferta Pública ou Colocação de Títulos no Mercado,9955
+9964,Seção Cível,9633
+9965,Abandono Material,9964
+9966,Abandono Intelectual,9964
+9967,Maus Tratos,9964
+9968,Abuso Sexual,9964
+9969,Exploração do Trabalho Infantil,9964
+9970,Pobreza,9964
+9971,Uso ou Tráfico de Drogas,9964
+9972,Adoção Internacional,9964
+9973,Adoção Nacional,9964
+9974,Adoção de Criança,9964
+9975,Adoção de Adolescente,9964
+9977,Entrada e Permanência de Menores,9964
+9978,Viagem ao Exterior,9964
+9979,Trabalho do adolescente,9964
+9981,Pessoas Jurídicas,899
+9984,Em comum / De fato,9617
+9985,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,
+9986,Garantias Constitucionais,9985
+9990,Intervenção em Estado / Município,9986
+9991,Responsabilidade da Administração,9985
+9992,Indenização por Dano Moral,9991
+9994,Indenização por Dano Ambiental,10110
+9995,Erro Médico,9992
+9996,Acidente de Trânsito,9992
+9997,Atos Administrativos,9985
+9998,Licenças,9997
+9999,Declaração de Bagagem,9998
+10000,Declaração de Trânsito Aduaneiro,9998
+10001,Comercialização sem Restrições de Produtos Industrializados,9998
+10002,Comercialização sem Restrições de Gêneros Alimentícios,9998
+10003,Comercialização e/ou Utilização sem Restrições de Medicamentos,9998
+10004,Funcionamento de Comércio de Derivados de Petróleo,9998
+10005,Registro de Empresa,9998
+10006,Funcionamento de Estabelecimentos Empresariais,9998
+10007,Registro / Porte de arma de fogo,9998
+10008,Registro de Aeronave,9998
+10009,Inquérito / Processo / Recurso Administrativo,9997
+10010,"Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico",9997
+10011,Improbidade Administrativa,9997
+10012,Dano ao Erário,10011
+10013,Enriquecimento ilícito,10011
+10014,Violação aos Princípios Administrativos,10011
+10015,Fiscalização,9997
+10016,Inspeção Fitossanitária,10015
+10018,Inspeção Sanitária de Origem Animal,10015
+10022,Infração Administrativa,9997
+10023,Multas e demais Sanções,10022
+10024,Interdição,10022
+10025,Apreensão,10022
+10028,Serviços,9985
+10029,Ensino Superior,10028
+10051,Ensino Fundamental e Médio,10028
+10064,Saúde,10028
+10069,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,10064
+10073,Concessão / Permissão / Autorização,10028
+10074,Fornecimento de Gás,10073
+10075,Energia Elétrica,10073
+10076,Transporte Terrestre,10073
+10079,Loterias/Sorteio,9998
+10080,Telefonia,10073
+10081,Transporte Aquaviário,10073
+10083,"Tabelionatos, Registros, Cartórios",10073
+10084,Jogos de Bingo e/ou Caça-níqueis,9998
+10085,Água e/ou Esgoto,10073
+10086,Recolhimento e Tratamento de Lixo,10073
+10087,Defensoria Pública,10028
+10088,Domínio Público,9985
+10089,Bens Públicos,10088
+10090,Locação / Permissão / Concessão / Autorização / Cessão de Uso,10089
+10092,Taxa de Ocupação,10089
+10093,Foro / Laudêmio,10089
+10094,Terras Devolutas,10089
+10095,Águas Públicas,10089
+10096,Bloqueio de Valores de Contas Públicas,10089
+10106,Recursos Minerais,10088
+10108,Patrimônio Histórico / Tombamento,10088
+10109,Ordenação da Cidade / Plano Diretor,10088
+10110,DIREITO AMBIENTAL,
+10111,Revogação/Concessão de Licença Ambiental,10110
+10112,Revogação/Anulação de multa ambiental,10110
+10113,Flora,10110
+10114,Fauna,10110
+10115,Transgênicos,10110
+10116,Agrotóxicos,10110
+10118,Unidade de Conservação da Natureza,10110
+10120,Intervenção do Estado na Propriedade,9985
+10121,Desapropriação,10120
+10122,Desapropriação por Utilidade Pública / DL 3.365/1941,10120
+10123,Desapropriação por Interesse Social Comum / L 4.132/1962,10120
+10125,Desapropriação Indireta,10120
+10126,Retrocessão,10120
+10127,Vistoria,10120
+10128,Servidão Administrativa,10120
+10129,Ocupação Temporária,10120
+10130,Limitação Administrativa,10120
+10131,Privatização,10088
+10132,Restituição de área,10120
+10133,Direito de Preempção,10120
+10134,Desapropriação de Imóvel Urbano,10120
+10135,Requisição de Bem Particular,10120
+10136,Intervenção no Domínio Econômico,9985
+10157,Organização Político-administrativa / Administração Pública,9985
+10182,Dívida Pública Mobiliária,9985
+10183,Apólices da Dívida Pública,10182
+10184,Títulos da Dívida Pública,10182
+10186,Agentes Políticos,9985
+10187,Magistratura,10186
+10188,Remuneração,10187
+10191,Aposentadoria,10187
+10194,Ministério Público,10186
+10195,Remuneração,10194
+10196,Afastamento,10194
+10197,Processo Disciplinar / Sindicância,10194
+10198,Aposentadoria,10194
+10199,Promoção,10194
+10200,Remoção,10194
+10201,Prefeito,10186
+10202,Afastamento do Cargo,10201
+10203,Remuneração,10201
+10204,Recondução,10201
+10205,Prestação de Contas,10201
+10206,Indisponibilidade de Bens,10201
+10207,Governador,10186
+10208,Afastamento do Cargo,10207
+10209,Remuneração,10207
+10210,Recondução,10207
+10211,Prestação de Contas,10207
+10212,Indisponibilidade de Bens,10207
+10213,Parlamentares,10186
+10214,Remuneração,10213
+10215,Afastamento do Cargo,10213
+10216,Recondução,10213
+10217,Prestação de Contas,10213
+10218,Indisponibilidade de Bens,10213
+10219,Servidor Público Civil,9985
+10220,Regime Estatutário,10219
+10221,Isonomia/Equivalência Salarial,10288
+10222,Estabilidade,10220
+10223,Enquadramento,10220
+10224,Recondução,10220
+10225,Acumulação de Cargos,10220
+10226,Reintegração ou Readmissão,10220
+10227,Direito de Greve,10220
+10228,Transferência,10220
+10229,Remoção,10220
+10230,Regime Previdenciário,10220
+10231,Anistia Administrativa,10220
+10232,Reversão,10220
+10233,Redistribuição,10220
+10234,Disponibilidade / Aproveitamento,10220
+10235,Lotação,10220
+10236,Promoção / Ascensão,10220
+10237,Readaptação,10220
+10238,Estágio Probatório,10220
+10239,Nomeação,10220
+10240,Posse e Exercício,10220
+10241,Exoneração ou Demissão,10220
+10243,Complementação de Benefício/Ferroviário,10288
+10244,Assistência à Saúde,10288
+10245,Assistência Pré-escolar,10288
+10246,Auxílio-Natalidade,10288
+10247,Auxílio-Reclusão,10288
+10248,Auxílio-Funeral,10288
+10249,Salário-Família,10288
+10250,Pensão,10219
+10251,Provisória,10250
+10252,Concessão,10250
+10253,Restabelecimento,10250
+10254,Aposentadoria,10219
+10255,Invalidez Permanente,10254
+10256,Compulsória,10254
+10257,Voluntária,10254
+10258,Licenças / Afastamentos,10219
+10259,Dirigente Sindical,10258
+10260,Licença Capacitação (Aperfeiçoamento Profissional),10258
+10261,Licença-Prêmio,10258
+10262,Doença em Pessoa da Família,10258
+10263,Tratamento da Própria Saúde,10258
+10264,Gestante / Adotante / Paternidade,10258
+10265,Interesse Particular,10258
+10266,Serviço Militar,10258
+10267,Atividade Política,10258
+10268,Casamento,10258
+10269,Luto,10258
+10270,Amamentação,10258
+10271,Doação de Sangue,10258
+10272,Alistamento / Serviço Eleitoral,10258
+10273,Acompanhamento de Cônjuge ou Companheiro,10258
+10274,Exercício em Outro Município,10258
+10275,Licença por Acidente em Serviço,10258
+10276,Tempo de Serviço,10219
+10277,Averbação / Contagem de Tempo Especial,10276
+10278,Averbação / Contagem Recíproca,10276
+10279,Processo Administrativo Disciplinar ou Sindicância,10219
+10280,Demissão ou Exoneração,10279
+10281,Advertência,10279
+10282,Suspensão,10279
+10283,Responsabilidade Civil do Servidor Público / Indenização ao Erário,10279
+10286,Programa de Desligamento Voluntário (PDV),10219
+10287,Jornada de Trabalho,10219
+10288,Sistema Remuneratório e Benefícios,10219
+10289,Gratificações da Lei 8.112/1990,10288
+10290,Gratificação de Incentivo,10288
+10291,Adicional de Insalubridade,10288
+10292,Adicional de Periculosidade,10288
+10293,Adicional de Fronteira,10288
+10294,Abono Pecuniário (Art. 78 Lei 8.112/1990),10288
+10295,Gratificação Incorporada / Quintos e Décimos / VPNI,10288
+10296,Descontos Indevidos,10288
+10297,Teto Salarial,10288
+10298,Diárias e Outras Indenizações,10288
+10299,Plano de Classificação de Cargos,10288
+10300,Data Base,10288
+10301,Férias,10288
+10302,Adicional por Tempo de Serviço,10288
+10303,Adicional de Horas Extras,10288
+10304,Auxílio-Alimentação,10288
+10305,Gratificações de Atividade,10288
+10306,Auxílio-transporte,10288
+10307,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",10288
+10308,Adicional de Serviço Noturno,10288
+10309,Adicional de Produtividade,10288
+10310,Gratificação Natalina/13º salário,10288
+10311,Irredutibilidade de Vencimentos,10288
+10312,Piso Salarial,10288
+10313,"Reajustes de Remuneração, Proventos ou Pensão",10219
+10318,Índice da URV Lei 8.880/1994,10313
+10323,Inclusão de Dependente,10288
+10324,Militar,9985
+10325,Regime,10324
+10326,Ingresso e Concurso,10325
+10327,Curso de Formação,10325
+10328,Reintegração,10325
+10329,Estabilidade,10325
+10331,"Adidos, Agregados e Adjuntos",10325
+10334,Promoção,10325
+10335,Serviço Militar dos Profissionais da Saúde,10325
+10336,Corpo Feminino,10325
+10337,Sistema Remuneratório e Benefícios,10324
+10338,Gratificações e Adicionais,10337
+10339,Férias,10337
+10340,Indenizações Regulares,10337
+10341,Isonomia,10337
+10342,"Reajuste de Remuneração, Soldo, Proventos ou Pensão",10324
+10349,Reforma,10337
+10350,Licenças,10337
+10351,Agregação,10337
+10352,Reserva Remunerada,10337
+10353,Transferência ex-officio para reserva,10337
+10354,Tempo de Serviço,10337
+10355,Transferência para reserva,10337
+10356,Assistência Médico-Hospitalar,10337
+10357,Licença Prêmio,10337
+10358,Licenciamento,10337
+10359,Pensão,10324
+10360,Concessão,10359
+10361,Restabelecimento,10359
+10362,Provisória,10359
+10363,Processo Administrativo Disciplinar / Sindicância,10324
+10364,Advertência / Repreensão,10363
+10365,Impedimento / Detenção / Prisão,10363
+10366,Licenciamento / Exclusão,10363
+10367,Suspensão,10363
+10370,Concurso Público / Edital,9985
+10371,Reserva de Vagas para Deficientes,10370
+10372,Inscrição / Documentação,10370
+10373,Limite de Idade,10370
+10374,Exigência de Prática Forense,10370
+10375,Prova de Títulos,10370
+10376,Exame de Saúde e/ou Aptidão Física,10370
+10377,Curso de Formação,10370
+10378,Exame Psicotécnico / Psiquiátrico,10370
+10379,Anulação e Correção de Provas / Questões,10370
+10380,Escolaridade,10370
+10381,Classificação e/ou Preterição,10370
+10382,Anulação,10370
+10383,Prazo de Validade,10370
+10384,Condições Especiais para Prestação de Prova,10370
+10385,Licitações ,9985
+10386,Modalidade / Limite,10385
+10387,Habilitação / Registro Cadastral / Julgamento / Homologação,10385
+10388,Edital,10385
+10389,Revogação,10385
+10390,Sanções Administrativas,10385
+10391,Recursos Administrativos,10385
+10392,Convênio,10385
+10393,Adjudicação,10385
+10394,Dívida Ativa não-tributária,9985
+10395,Multas e demais Sanções,10394
+10396,Ambiental,10395
+10397,Sanitárias,10395
+10401,Taxa de Ocupação / Laudêmio / Foro,10394
+10402,Cessão de créditos não-tributários,10394
+10409,Empregado Público / Temporário,9985
+10410,Contrato Temporário de Mão de Obra L 8.745/1993,10409
+10411,Admissão / Permanência / Despedida,10409
+10412,Comissão Parlamentar de Inquérito - CPI,9985
+10413,Quebra de Sigilo Bancário / Fiscal / Telefônico,10412
+10414,Criação / Instalação / Prosseguimento / Encerramento,10412
+10415,Limites dos Poderes de Investigação,10412
+10416,Limites do Objeto,10412
+10417,Sistema Nacional de Trânsito,9985
+10418,CNH - Carteira Nacional de Habilitação,10417
+10419,Liberação de Veículo Apreendido,10417
+10420,Licenciamento de Veículo,10417
+10421,Contratos Administrativos,9985
+10422,Pagamento Atrasado / Correção Monetária,10421
+10423,Anulação,10421
+10424,Suspensão,10421
+10425,Rescisão,10421
+10426,Prorrogação,10421
+10427,Termo Aditivo,10421
+10428,Penalidades,10421
+10429,Execução Contratual,10421
+10430,Equilíbrio Financeiro,10421
+10431,Responsabilidade Civil,899
+10432,Coisas,899
+10433,Indenização por Dano Moral,10431
+10434,Erro Médico,10433
+10435,Acidente de Trânsito,10433
+10436,Lei de Imprensa,10433
+10437,Direito de Imagem,10433
+10438,Dano Ambiental,10110
+10439,Indenização por Dano Material,10431
+10440,Erro Médico,10439
+10441,Acidente de Trânsito,10439
+10442,Lei de Imprensa,10439
+10443,Direito de Imagem,10439
+10444,Posse,10432
+10445,Esbulho / Turbação / Ameaça,10444
+10446,Imissão,10444
+10447,Aquisição,10444
+10448,Propriedade,10432
+10449,Perda da Propriedade,10448
+10450,Adjudicação Compulsória,10448
+10451,Divisão e Demarcação,10448
+10452,Reivindicação,10448
+10453,Retificação de Área de Imóvel,10448
+10454,Alienação Judicial,10448
+10455,Aquisição,10448
+10456,Acessão,10455
+10457,Usucapião Especial (Constitucional),10455
+10458,Usucapião Extraordinária,10455
+10459,Usucapião Ordinária,10455
+10460,Usucapião Especial Coletiva,10455
+10461,Direito de Vizinhança,10448
+10462,Condomínio,10448
+10463,Condomínio em Edifício,10448
+10464,Administração,10463
+10465,Alteração de Coisa Comum,10463
+10466,Assembléia,10463
+10467,Despesas Condominiais,10463
+10468,Direitos / Deveres do Condômino,10463
+10469,Vaga de garagem,10463
+10470,Incorporação Imobiliária,10448
+10480,Propriedade Resolúvel,10448
+10481,Propriedade Fiduciária,10448
+10482,Enfiteuse,10432
+10483,Servidão,10432
+10484,Usufruto,10432
+10485,Superfície,10432
+10486,Uso,10432
+10487,Habitação,10432
+10488,Penhor,10432
+10489,Rural - Agrícola/Pecuário,10488
+10490,Industrial / Mercantil,10488
+10491,Direitos e Títulos de Crédito,10488
+10492,Veículos,10488
+10493,Legal,10488
+10494,Hipoteca,10432
+10495,Anticrese,10432
+10496,Promessa de Compra e Venda,10432
+10497,Subsídios,10288
+10499,Programa de Computador,4654
+10500,Usucapião da L 6.969/1981,10455
+10501,Crédito Rural,9580
+10502,Indenização por Dano Material,9991
+10503,Erro Médico,10502
+10504,Acidente de Trânsito,10502
+10505,Variação Cambial,10502
+10508,Maus Tratos,3388
+10509,Exposição ou Abandono de Recém Nascido,3388
+10527,Livros / Jornais / Periódicos,5914
+10528,Entidades Sem Fins Lucrativos,5914
+10529,Partidos Políticos,5914
+10530,Imunidade Recíproca,5914
+10531,ICMS / Incidência Sobre o Ativo Fixo,5946
+10534,Taxa de Limpeza Pública,5972
+10535,Taxa de Iluminação Pública,5972
+10536,Taxa de Coleta de Lixo,5972
+10537,Taxa de Prevenção e Combate a Incêndio,5972
+10538,Taxa de Licenciamento de Estabelecimento,5972
+10539,Capacidade Tributária,5978
+10540,Competência Tributária,5913
+10543,Depósito Judicial,5987
+10544,Constitucionalidade do artigo 4º da LC 118/05,5992
+10545,Constitucionalidade do artigo 46 da Lei 8212/91,5992
+10546,Suspensão,5992
+10547,Interrupção,5992
+10548,Decretação de Ofício,5992
+10549,Arquivamento Administrativo - Crédito de Pequeno Valor,10546
+10550,Despacho de Citação,10547
+10551,Constitucionalidade do artigo 45 da Lei 8212/91,5993
+10556,Exclusão - ICMS,6008
+10557,Exclusão - IPI,6008
+10558,Exclusão - Receitas Provenientes de Exportação,6008
+10559,"Cálculo de ICMS ""por dentro""",6008
+10560,Quebra de Sigilo Bancário,6021
+10561,PIS - Importação,6033
+10562,COFINS - Importação,6033
+10563,Compensação de Prejuízo,6036
+10564,Contribuição Sindical Rural,1697
+10565,Contribuição Sindical Rural,6044
+10567,Aposentadoria por Invalidez Acidentária,6094
+10568,Prescrição,864
+10570,FGTS,10568
+10571,Acidente de Trabalho,10568
+10573,Prisão Civil,9148
+10577,Relações de Parentesco,5626
+10582,Rescisão / Resolução,7691
+10585,Capitalização / Anatocismo,7699
+10586,Limitação de Juros,7699
+10588,Vícios de Construção,4839
+10590,Resgate de Contribuição,4805
+10592,Desconto em folha de pagamento,7690
+10595,Multa,10463
+10598,Cobrança indevida de ligações ,7617
+10604,Investigação Penal,1209
+10605,Competência do MP,10604
+10606,Cerceamento de Defesa,10604
+10607,Quebra do Sigilo Bancário,10604
+10608,Quebra do Sigilo Fiscal,10604
+10609,Quebra do Sigilo Telefônico,10604
+10610,Trancamento,10604
+10635,Progressão de Regime,7791
+10637,Remição,7791
+10638,Acumulação de Proventos,10288
+10654,Competência da Justiça Estadual,8829
+10655,Honorários Advocatícios,8874
+10656,Honorários Advocatícios em Execução Contra a Fazenda Pública,8874
+10657,Honorários Advocatícios em FGTS ,8874
+10658,Custas,8874
+10659,Suspeição,8884
+10660,Impedimento,8884
+10662,Abono de Permanência,10288
+10666,Regularidade Formal,9045
+10667,Gratificações Estaduais Específicas,10288
+10668,Fac-símile,9060
+10669,Protocolo Integrado / Descentralizado,9060
+10670,Obrigação de Entregar,9148
+10671,Obrigação de Fazer / Não Fazer,9148
+10673,Requisição de Pequeno Valor - RPV,9148
+10676,Imissão na Posse,10670
+10677,Busca e Apreensão,10670
+10678,Sequestro de Verbas Públicas,
+10679,Fracionamento,
+10681,Aposentadoria / Pensão Especial,10213
+10683,Fato Superveniente ao Término do Prazo para Impugnação,9148
+10684,Juros,9149
+10685,Correção Monetária,9149
+10686,Multa Cominatória / Astreintes,9148
+10687,Taxa SELIC,9149
+10688,Medidas Sócio-educativas,9633
+10690,IPMF - Imposto Provisório sobre Movimentação Financeira,5916
+10706,Gratificações Municipais Específicas,10288
+10732,Verba de Representação,10214
+10735,Ausência de Interesse Processual,8942
+10736,Legitimidade para a Causa,8942
+10737,Ausência de Pressupostos de Constituição e Desenvolvimento ,8942
+10739,DIREITO ELEITORAL E PROCESSO ELEITORAL DO STF,
+10740,Partido Político,10739
+10741,Criação do Partido Político,10740
+10859,Alimentos,10573
+10863,Ausência de Legitimidade para propositura de Ação Civil Pública,10736
+10864,Crimes Hediondos,10635
+10869,Parcela Incontroversa,
+10880,Cumprimento Provisório de Sentença,9148
+10885,Liquidação Parcelada,
+10894,Abuso de Poder,9997
+10902,Excesso de prazo para instrução / julgamento,4263
+10906,Regressão de Regime,7791
+10915,Aborto,3369
+10917,Aborto provocado pela gestante ou com o seu consentimento,10915
+10918,Aborto provocado por terceiro,10915
+10919,Aborto qualificado,10915
+10924,Depósito Elisivo,4993
+10925,Provas,4263
+10928,Competência do Órgão Fiscalizador,10015
+10930,Município,10157
+10931,Criação,10930
+10932,Desmembramento,10930
+10936,Guarda com genitor ou responsável no exterior,10577
+10938,Citação,8893
+10939,Intimação / Notificação,8893
+10940,Depoimento,8990
+10941,Viagem Nacional,9964
+10945,Expurgos Inflacionários / Planos Econômicos,7752
+10948,Violência Doméstica Contra a Mulher,5626
+10949,Violência Doméstica Contra a Mulher,287
+10950,Crime / Contravenção contra Criança / Adolescente,287
+10951,Crime / Contravenção contra Idoso,287
+10952,Fato Atípico,287
+10954,Orçamento,9985
+10955,Criação de Dotação Orçamentária,10954
+10956,Repasse de Duodécimos,10954
+10957,Repasse de Verbas Públicas,10954
+10958,Crédito Suplementar,10954
+10982,"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção",3547
+10983,"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção",5872
+10986,Crime contra a administração ambiental,3618
+11000,Cobrança de Aluguéis - Sem despejo,9593
+11386,Advertência,10688
+11387,Internação com atividades externas,10688
+11388,Internação sem atividades externas,10688
+11389,Liberdade assistida,10688
+11390,Obrigação de reparar o dano,10688
+11391,Prestação de serviços à comunidade,10688
+11392,Semiliberdade,10688
+11410,Crimes contra portadores de deficiência,3603
+11412,Conflito fundiário coletivo rural,10432
+11413,Conflito fundiário coletivo urbano,10432
+11414,Crime/contravenção decorrente de conflito fundiário coletivo,287
+11416,Violação sexual mediante fraude,3463
+11417,Estupro de vulnerável,3463
+11418,Satisfação de lascívia mediante presença de criança ou adolescente ,3463
+11419,Favorecimento da prostituição ou outra forma de exploração sexual de vulnerável ,3463
+11420,Favorecimento da prostituição ou outra forma de exploração sexual,3463
+11421,Tráfico internacional de pessoa para fim de exploração sexual,3463
+11422,Tráfico interno de pessoa para fim de exploração sexual,3463
+11428,DIREITO ELEITORAL,
+11429,Crimes Eleitorais,11428
+11430,Crimes contra a Organização Administrativa da Justiça Eleitoral,11429
+11431,Intervenção Indevida de Autoridade Junto à Mesa Receptora,11430
+11432,Não Observância de Chamamento de Eleitores para Votar,11430
+11433,Práticas Irregulares que Determinam a Anulação da Votação,11430
+11434,Votação de Eleitor na Seção Eleitoral na qual Não Está Inscrito ou Autorizado a Votar ,11430
+11435,Contagem de Votos de Eleitores em Relação aos quais Houve Impugnação,11430
+11436,"Fabricação, Aquisição, Fornecimento, Subtração ou Guarda de Materiais de Uso da Justiça Eleitoral",11430
+11437,Crimes contra o Serviço da Justiça Eleitoral,11429
+11438,Inscrição Fraudulenta,11437
+11439,Induzimento à Inscrição de Eleitor em Infração às Normas Legais,11437
+11440,Inscrição Fraudulenta Efetivada pelo Juiz,11437
+11441,Negativa ou Retardamento de Inscrição sem Fundamento Legal,11437
+11442,Perturbação ou Impedimento de Alistamento,11437
+11443,Promoção de Desordem nos Trabalhos Eleitorais,11437
+11444,Majoração de Preços de Utilidade e Serviços Necessários à Realização das Eleições,11437
+11445,"Ocultação, Sonegação ou Recusa de Fornecimento de Utilidades, Alimentos e Transporte no Dia da Eleição ",11437
+11446,"Retardamento ou Não-Publicação de Decisões, Citações ou Intimações da Justiça Eleitoral",11437
+11447,Não-Apresentação de Denúncia ou Não Execução de Sentença Penal Condenatória no Prazo Legal ,11437
+11448,"Não Cumprimento, pela Autoridade Judiciária, do Dever de Representar Contra o Órgão do Ministério que Não Oferece Denúncia no Prazo Legal ",11437
+11449,Recusa ou Abandono do Serviço Eleitoral,11437
+11450,Não Cumprimento dos Deveres Impostos pelo Código Eleitoral à Autoridade Judiciária e aos Funcionários da Justiça Eleitoral ,11437
+11451,Utilização de Prédios ou Serviços de Repartições Públicas para Beneficiar Partido ou Organização de Caráter Político ,11437
+11452,Desobediência a Ordens ou Instruções da Justiça Eleitoral ,11437
+11453,"Descumprimento do Dever de Informar o Número, Espécie e Lotação de Veículos e Embarcações ",11437
+11454,Desatendimento à Requisição de Veículo ou Embarcação ,11437
+11455,Descumprimento da Proibição de Fornecimento de Transporte ou Refeições a Eleitores,11437
+11456,Estupro de Vulnerável,9740
+11457,Favorecimento de Prostituição ou Outra Forma de Exploração Sexual ,9740
+11458,Favorecimento de Prostituição ou Outra Forma de Exploração Sexual de Vulnerável,9740
+11459,Satisfação de Lascívia Mediante Presença de Criança ou Adolescente,9740
+11460,Tráfico Interno de Pessoa para Fim de Exploração Sexual,9740
+11461,Violação Sexual Mediante Fraude,9740
+11464,Obstamento do Transporte e Fornecimento de Alimentos a Eleitores pela Justiça Eleitoral,11437
+11465,Utilização de Veículos e Embarcações Públicas em Campanha Eleitoral,11437
+11466,Dano a Equipamento Eleitoral,11437
+11467,Crimes contra a Fé Pública Eleitoral,11429
+11468,Omissão na Expedição de Boletim de Apuração,11467
+11469,"Omissão no Recolhimento das Cédulas Apuradas, no Fechamento e Lacração da Urna",11467
+11470,Alteração do Resultado de Votação nos Mapas ou Boletins de Apuração,11467
+11471,"Omissão no Recebimento e Registro de Protestos, bem como, de sua Remessa à Instância Superior ",11467
+11472,Falsificação ou Alteração de Documento Público para Fins Eleitorais,11467
+11473,Falsidade Ideológica,11467
+11474,Reconhecimento Indevido de Firma ou Letras para Fins Eleitorais,11467
+11475,Uso de Documento Falso para Fins Eleitorais,11467
+11476,Obtenção de Documento Falso para Fins Eleitorais,11467
+11477,Omissão da Entrega do Boletim de Urna,11467
+11478,Obtenção de Acesso a Sistema de Dados Eleitorais,11467
+11479,Destruição de Dados Eleitorais,11467
+11481,Recusa de Entrega de Boletim,11467
+11482,Crimes contra a Propaganda Eleitoral,11429
+11483,Divulgação de Fatos Inverídicos na Propaganda Eleitoral,11482
+11484,Calúnia na Propaganda Eleitoral,11482
+11485,Divulgação de Falsa Imputação,11482
+11486,Difamação na Propaganda Eleitoral,11482
+11487,Injúria na Propaganda Eleitoral,11482
+11488,Injúria Eleitoral Violenta,11482
+11489,"Inutilização, Alteração ou Perturbação de Propaganda",11482
+11490,Impedimento do Exercício da Propaganda,11482
+11491,Utilização de Organização Comercial para Propaganda ou Aliciamento de Eleitores,11482
+11492,Realização de Propaganda Eleitoral em Língua Estrangeira,11482
+11493,Participação de Pessoa Não Detentora de Direitos Políticos em Atividades Partidárias e de Propaganda Eleitoral ,11482
+11494,Autorização de Transmissão de Pessoa Não Detentora de Direitos Políticos em Atividades Partidárias e de Propaganda Eleitoral ,11482
+11495,Pesquisa Fraudulenta,11482
+11496,"Uso, na Propaganda Eleitoral, de Símbolo de Órgãos de Governo",11482
+11497,Crimes contra o Sigilo ou o Exercício do Voto,11429
+11498,Retenção de Título Eleitoral ou do Comprovante de Alistamento Eleitoral,11497
+11499,Impedimento ou Embaraço ao Exercício do Sufrágio,11497
+11500,"Prisão ou Detenção do Eleitor, Membro de Mesa Receptora, Fiscal, Delegado de Partido ou Candidato, Fora das Hipóteses Legais Permitidas ",11497
+11501,Corrupção Eleitoral,11497
+11502,Coação Visando a Obtenção de Voto ou a sua Abstenção,11497
+11503,Violência ou Grave Ameaça Visando a Obtenção de Voto ou a sua Abstenção,11497
+11504,Concentração de Eleitores para Embaraçar ou Fraudar o Exercício do Voto,11497
+11505,Fornecimento ao Eleitor de Cédula Oficial Já Assinalada ou Marcada,11497
+11506,Fornecimento de Cédula Eleitoral Rubricada a Destempo,11497
+11507,Votação Múltipla ou Realizada em Lugar de Outrem,11497
+11508,Violação do Sigilo do Voto,11497
+11509,Violação do Sigilo da Urna ou dos Invólucros,11497
+11510,"Destruição, Supressão ou Ocultação de Urna Contendo Votos ou Documentos Eleitorais ",11497
+11511,Destruição de Relação de Candidatos,11497
+11512,Uso Proibido de Alto-Falantes,11497
+11513,Arregimentação de Eleitor ou Boca de Urna,11497
+11514,Divulgação de Propaganda Eleitoral no Dia da Eleição,11497
+11515,Retenção de Título ou Comprovante de Alistamento Eleitoral,11497
+11517,Crimes contra os Partidos Políticos,11429
+11518,Subscrição de Mais de Uma Ficha de Filiação Partidária,11517
+11519,Inscrição Simultânea em Dois ou Mais Partidos,11517
+11520,Coleta de Assinatura em Mais de Uma Ficha de Registro Partidário,11517
+11521,Preterição à Prioridade Postal,11517
+11522,Arguição de Ineligibilidade Temerária ou de Má-Fé,11517
+11523,Não-Acesso dos Partidos aos Dados Relativos às Pesquisas Eleitorais,11517
+11524,Irregularidades dos Dados Publicados em Pesquisas Eleitorais,11517
+11557,Administração da Justiça Eleitoral,11428
+11558,Conduta Vedada a Agente Público,11557
+11560,Descumprimento de Prazos Eleitorais,11557
+11562,Magistrado,11557
+11574,Alistamento Eleitoral,11428
+11575,Alistamento Eleitoral - Cancelamento,11574
+11576,Alistamento Eleitoral - Domicílio Eleitoral,11574
+11577,Alistamento Eleitoral - Duplicidade/Pluralidade,11574
+11578,Alistamento Eleitoral - Exclusão,11574
+11579,Alistamento Eleitoral - Inscrição Eleitoral,11574
+11580,Impugnação - Alistamento Eleitoral,11574
+11581,Impugnação - Inscrição Eleitoral,11580
+11582,Impugnação - Transferência de Domicílio Eleitoral,11580
+11583,Eleições,11428
+11584,Candidatos,11583
+11585,Condição de Elegibilidade,11584
+11586,Condição de Elegibilidade - Alistamento Eleitoral,11585
+11587,Condição de Elegibilidade - Domicílio Eleitoral na Circunscrição,11585
+11588,Condição de Elegibilidade - Idade Mínima,11585
+11589,Condição de Elegibilidade - Filiação Partidária,11585
+11590,Condição de Elegibilidade - Nacionalidade Brasileira,11585
+11591,Condição de Elegibilidade - Pleno Exercício dos Direitos Políticos,11585
+11592,Condição de Elegibilidade - Quitação Eleitoral,11585
+11593,Direito de Resposta,11584
+11594,Identificação Numérica de Candidato,11584
+11595,Inelegibilidade,11584
+11596,Inelegibilidade - Abuso do Poder Econômico ou Político,11595
+11597,Inelegibilidade - Analfabetismo,11595
+11598,Inelegibilidade - Condenação Criminal por órgão colegiado ou Transitada em Julgado,11595
+11599,Inelegibilidade - Declaração de Indignidade ou de Incompatibilidade com o Oficialato,11595
+11600,Inelegibilidade - Desincompatibilização,11595
+11601,Inelegibilidade - Inalistável,11595
+11602,Inelegibilidade - Parentesco,11595
+11603,Inelegibilidade - Reeleição,11595
+11604,Inelegibilidade - Rejeição de Contas Públicas,11595
+11605,Inelegibilidade - Representação ou Ação de Investigação Judicial Eleitoral Jugada Procedente pela Justiça Eleitoral,11595
+11606,Inelegibilidade - Terceiro Mandato,11595
+11607,Inelegibilidade - Vida Pregressa,11595
+11608,Inelegibilidade - Vínculo Afetivo,11595
+11609,Inelegibilidade - Vínculo Conjugal,11595
+11610,Inelegibilidade - Vínculo em União Estável ,11595
+11611,Nome do Candidato,11584
+11612,Nome do Candidato - Homonímia,11611
+11613,Nome do Candidato - Variação Nominal,11611
+11614,Prestação de Contas - De Candidato,11584
+11615,Registro de Candidatura,11584
+11616,Impugnação ao Registro de Candidatura,11615
+11617,Registro de Candidatura - Preenchimento de Vaga Remanescente,11615
+11618,Registro de Candidatura - RRC - Candidato,11615
+11619,Registro de Candidatura - RRCI - Candidato Individual,11615
+11620,Registro de Candidatura - Substituição de Candidato,11615
+11621,Registro de Candidatura - Substituição de Candidato - Por Cancelamento de Registro,11620
+11622,Registro de Candidatura - Substituição de Candidato - Por Cassação de Registro,11620
+11623,Registro de Candidatura - Substituição de Candidato - Por Expulsão Partidária,11620
+11624,Registro de Candidatura - Substituição de Candidato - Por Falecimento,11620
+11625,Registro de Candidatura - Substituição de Candidato - Por Indeferimento de Registro,11620
+11626,Registro de Candidatura - Substituição de Candidato - Por Ineligibilidade,11620
+11627,Registro de Candidatura - Substituição de Candidato - Por Renúncia,11620
+11628,Cargos,11583
+11633,Cargo - Prefeito,11628
+11634,Cargo - Presidente da República,11628
+11638,Cargo - Vereador,11628
+11640,Cargo - Vice-Prefeito,11628
+11642,Eleições - 1° Turno,11583
+11643,Eleições - 2° Turno,11583
+11644,Eleições - Anulação de Eleições,11583
+11645,Eleições - Eleição Majoritária,11583
+11646,Eleições - Eleição Proporcional,11583
+11647,Eleições - Eleição Suplementar,11583
+11648,Pesquisa Eleitoral,11583
+11649,Pesquisa Eleitoral - Divulgação de Pesquisa Eleitoral Fraudulenta,11648
+11650,Pesquisa Eleitoral - Divulgação de Pesquisa Eleitoral Sem Prévio Registro,11648
+11651,Pesquisa Eleitoral - Registro de Pesquisa Eleitoral,11648
+11652,Propaganda Política - Propaganda Eleitoral,11583
+11653,Propaganda Política - Propaganda Eleitoral - Adesivo,11652
+11654,Propaganda Política - Propaganda Eleitoral - Alto-falante/Amplificador de Som,11652
+11655,Propaganda Política - Propaganda Eleitoral - Banner/Cartaz/Faixa,11652
+11656,Propaganda Política - Propaganda Eleitoral - Bem Particular,11652
+11657,Propaganda Política - Propaganda Eleitoral - Bem Particular de Uso Comum,11652
+11658,Propaganda Política - Propaganda Eleitoral - Bem Público,11652
+11659,Propaganda Política - Propaganda Eleitoral - Bem Tombado,11652
+11660,Propaganda Política - Propaganda Eleitoral - Boca de Urna,11652
+11661,Propaganda Política - Propaganda Eleitoral - Cavalete,11652
+11662,Propaganda Política - Propaganda Eleitoral - Comício/Showmício,11652
+11663,Propaganda Política - Propaganda Eleitoral - Conduta Vedada a Emissora de Rádio/Televisão na Programação Normal,11652
+11664,"Propaganda Política - Propaganda Eleitoral - Confecção, Utilização ou Distribuição de Brinde",11652
+11665,Propaganda Política - Propaganda Eleitoral - Contrariedade à Lei de Postura Municipal,11652
+11666,Propaganda Política - Propaganda Eleitoral - Debate Político,11652
+11667,Propaganda Política - Propaganda Eleitoral - Extemporânea/Antecipada,11652
+11668,Propaganda Política - Propaganda Eleitoral - Folhetos/Volantes/Santinhos/Impressos,11652
+11669,Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito,11652
+11670,Propaganda Política - Propaganda Eleitoral - Distribuição de Tempo de Propaganda,11669
+11671,Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito/Inserções de Propaganda,11669
+11672,Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito/Programa em Bloco,11669
+11673,Propaganda Política - Propaganda Eleitoral - Rádio,11669
+11674,Propaganda Política - Propaganda Eleitoral - Rádio Comunitária,11669
+11675,Propaganda Política - Propaganda Eleitoral - Televisão,11669
+11676,Propaganda Política - Propaganda Eleitoral - Invasão de Horário Destinado a Outro Cargo/Partido/Coligação,11669
+11677,Propaganda Política - Propaganda Eleitoral - Imprensa Escrita - Jornal/Revista/Tabloide,11652
+11678,Propaganda Política - Propaganda Eleitoral - Inobservância do Limite Legal,11652
+11679,Propaganda Política - Propaganda Eleitoral - Internet,11652
+11680,Propaganda Política - Propaganda Eleitoral - Omissão de Informações Obrigatórias,11652
+11681,Propaganda Política - Propaganda Eleitoral - Outdoors,11652
+11682,Propaganda Política - Propaganda Eleitoral - Pintura em Muro,11652
+11683,"Propaganda Política - Propaganda Eleitoral - Truncagem, Montagem, Utilização de Gravação Externa, Computação Gráfica, Desenho Animado ou Efeito Especial",11652
+11684,Recursos Financeiros de Campanha Eleitoral,11583
+11685,Captação ou Gasto Ilícito de Recursos Financeiros de Campanha Eleitoral,11684
+11686,Comitê Financeiro,11684
+11687,Prestação de Contas - De Comitê Financeiro,11686
+11692,Contas,11684
+11693,Contas - Apresentação de Contas,11692
+11694,Contas - Aprovação,11693
+11695,Contas - Aprovação das Contas,11694
+11696,Contas - Aprovação das Contas com Ressalvas,11694
+11697,Contas - Desaprovação/Rejeição das Contas,11693
+11698,Contas - Não Apresentação das Contas,11692
+11699,Doação de Recursos Acima do Limite Legal,11684
+11700,Doação de Recursos Acima do Limite Legal - Pessoa Física,11699
+11701,Doação de Recursos Acima do Limite Legal - Pessoa Jurídica,11699
+11702,Garantias Eleitorais,11583
+11703,Habeas Corpus,11702
+11704,Habeas Corpus - Liberatório,11703
+11705,Habeas Corpus - Preventivo,11703
+11706,Impugnação,11702
+11707,Impugnação - Identidade de Eleitor Admitido a Votar,11706
+11708,Impugnação - Nomeação de Membro da Mesa Receptora,11706
+11709,Impugnação - Nomeação de Membro da Junta Eleitoral,11706
+11710,Impugnação - Sistema Eletrônico de Votação,11706
+11711,Impugnação - Voto por Cédula,11706
+11712,Registro de Candidatura - DRAP - Partido/Coligação,11583
+11713,Resultados,11583
+11714,Apuração/Totalização de Votos,11713
+11715,Quociente Eleitoral/Partidário,11713
+11716,Transgressões Eleitorais,11583
+11717,Abuso,11716
+11718,Abuso - De Poder Econômico,11717
+11719,Abuso - De Poder Político/Autoridade,11717
+11720,Abuso - Uso Indevido de Meio de Comunicação Social,11717
+11721,Captação Ilícita de Sufrágio,11716
+11722,Corrupção ou Fraude,11716
+11723,Propaganda Política - Propaganda Institucional,11716
+11724,Diplomação,11428
+11725,Direitos Políticos,11428
+11726,Direitos Políticos - Perda dos Direitos Políticos,11725
+11727,Direitos Políticos - Restabelecimento dos Direitos Políticos,11725
+11728,Direitos Políticos - Suspensão de Direitos Políticos,11725
+11729,Execução,11428
+11730,Execução - De Astreintes,11729
+11731,Execução - De Multa Eleitoral,11729
+11732,Execução de Julgado,11729
+11733,Garantias Processuais,11428
+11734,Cautelar Inominada,11733
+11735,Cautelar Inominada - De Busca e Apreensão,11734
+11736,Cautelar Inominada - De Produção Antecipada de Provas,11734
+11737,Cautelar Inominada - Incidental,11734
+11738,Cautelar Inominada - Preparatória,11734
+11739,Exceção,11733
+11740,Exceção - De Coisa Julgada,11739
+11741,Exceção - De Ilegitimidade de Parte,11739
+11742,Exceção - De Impedimento,11739
+11743,Exceção - De Incompetência,11739
+11744,Exceção - De Litispendência,11739
+11745,Exceção - De Pré-Executividade,11739
+11746,Exceção - De Suspeição,11739
+11747,Partidos Políticos,11428
+11748,Alteração Estatutária de Partido Político em Matéria Administrativa,11747
+11749,Coligação Partidária,11747
+11750,Coligação Partidária - Majoritária,11749
+11751,Coligação Partidária - Majoritária e Proporcional,11749
+11752,Coligação Partidária - Proporcional,11749
+11753,Convenção Partidária,11747
+11754,Filiação/Desfiliação,11747
+11755,Filiação Partidária,11754
+11756,Filiação Partidária - Cancelamento,11755
+11757,Filiação Partidária - Coexistência,11755
+11758,Filiação Partidária - Exclusão,11755
+11759,Desfiliação Partidária,11754
+11764,Órgão de Direção Partidária,11747
+11766,Partido Político - Órgão de Direção Estadual,11764
+11767,Partido Político - Órgão de Direção Municipal,11764
+11768,Partido Político - Órgão de Direção Nacional,11764
+11769,Partido Político - Comissão Provisória,11747
+11770,Propaganda Política,11747
+11771,Propaganda Política - Propaganda Intrapartidária,11770
+11772,Propaganda Política Partidária,11770
+11773,Propaganda Política - Propaganda Partidária,11772
+11774,Veiculação,11772
+11775,Veiculação de Propaganda Partidária - Em Bloco,11774
+11776,Veiculação de Propaganda Partidária - Em Inserções,11774
+11778,Requerimento,11428
+11779,Contra o Ordenamento Urbano e o Patrimônio Cultural,9878
+11780,Crimes contra o Ordenamento Urbano e o Patrimônio Cultural,3618
+11781,Objetos de cartas precatórias/de ordem,8826
+11782,Intimação,11781
+11783,Citação,11781
+11784,Oitiva,11781
+11785,Diligências,11781
+11786,Atos executórios,11781
+11802,Ordem Urbanística,9985
+11803,CONSELHOS,9985
+11804,Programas de Arrendamento Residencial PAR,4839
+11805,Tabela Price,4839
+11806,Empréstimo consignado,7752
+11807,Tarifas,7752
+11808,Capitalização e Previdência Privada,7771
+11809,Transporte Aquaviário,7771
+11810,Dever de Informação,1156
+11811,Práticas Abusivas,1156
+11812,Oferta e Publicidade,1156
+11814,Transporte Ferroviário,7776
+11815,Transporte Rodoviário,7776
+11816,Infrações administrativas,9964
+11817,Fundos,9964
+11818,Medidas de proteção,9964
+11819,Classificação indicativa,9964
+11820,Entidades de atendimento,9964
+11821,Conselhos tutelares,9964
+11822,Mineração,10110
+11823,Reserva legal,10110
+11824,Recursos Hídricos,10110
+11825,Poluição,10110
+11826,Zoneamento Ecológico e Econômico,10110
+11827,Zona Costeira,10110
+11828,Área de Preservação Permanente,10110
+11829,Produtos Controlados / Perigosos,10110
+11830,Patrimônio Cultural,10110
+11831,Controle Externo da atividade policial,9985
+11832,Conselho do Idoso,11803
+11833,Conselho da Comunidade,11803
+11834,Conselho sobre Drogas,11803
+11835,Conselho de Direitos da Criança e Adolescente,11803
+11836,Parcelamento do Solo,11802
+11837,Comércio Ambulante,11802
+11838,Operações Urbanas Consorciadas,11802
+11839,Posturas Municipais,11802
+11840,Segurança em Edificações,11802
+11841,Política Agrícola,9985
+11842,Pessoa Idosa,9986
+11843,Pessoas com deficiência,9986
+11844,Minorias Étnicas,9986
+11845,Comunicação Social,9986
+11846,Moradia,9986
+11847,Assistência Social,9986
+11848,Alimentação,9986
+11849,Não Discriminação,9986
+11851,Terceirização do SUS,10064
+11852,Financiamento do SUS,10064
+11853,Vigilância Sanitária e Epidemiológica,10064
+11854,Saúde Mental,10064
+11855,Controle Social e Conselhos de Saúde,10064
+11856,Hospitais e Outras Unidades de Saúde,10064
+11857,Doação e Transplante de Órgãos,10064
+11858,Recebimento de bolsa de estudos,10288
+11860,Produto Impróprio,7771
+11861,Combustíveis e derivados,7771
+11862,Saneamento,10110
+11863,Responsabilidade Fiscal,9985
+11864,Irregularidade no atendimento,1156
+11865,Vendas casadas,1156
+11866,Jogos / Sorteios / Promoções comerciais,1156
+11867,Produto Impróprio,6220
+11868,Combustíveis e derivados,1156
+11870,Utilização de bens públicos,10089
+11871,Agências/órgãos de regulação,10136
+11872,Sistema de proteção especial a vítimas e a testemunhas,9985
+11873,Política fundiária e da reforma agrária,9985
+11874,Responsabilidade fiscal,9985
+11883,Tratamento Médico-Hospitalar,10064
+11884,Fornecimento de Medicamentos,10064
+11885,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),11883
+11895,Crimes Previstos no Estatuto do Torcedor,3603
+11896,Previstos no Estatuto do Torcedor,9847
+11904,Prova Objetiva,10370
+11905,Prova Subjetiva,10370
+11906,Prova Prática-Sentença,10370
+11907,Prova Oral,10370
+11908,Reserva de Vagas,10370
+11909,Concurso para servidor,10370
+11923,Fraude / Quebra de ordem cronológica,
+11924,Pagamento,
+11939,Entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional,9932
+11940,Inclusão do 13º salário (gratificação natalina) no PBC,6127
+11941,Art. 26 da Lei 8.870/1994,6120
+11942,"Art. 29, § 5º, da Lei 8.213/1991",6120
+11943,"Art. 29, II, da Lei 8.213/1991",6120
+11944,Alteração do teto máximo para o valor do benefício previdenciário do RGPS (EC 20 e 41),6120
+11945,"Revisão do valor do benefício no primeiro reajuste após a concessão (Art. 21, § 3º, da Lei 8.880/1994)",6149
+11946,Deficiente,6114
+11947,Idoso,6114
+11958,Difusão culposa de doença ou praga,3491
+11959,Receptação culposa,3415
+11961,Incêndio culposo,3491
+11962,Incêndio culposo,9773
+11963,Explosão culposa,3491
+11964,Explosão culposa,9773
+11965,Uso culposo de gás tóxico ou asfixiante,9773
+11966,Uso culposo de gás tóxico ou asfixiante,3491
+11967,Inundação culposa,3491
+11968,Inundação culposa,9773
+11969,Desabamento ou desmoronamento culposo,3491
+11970,Desabamento ou desmoronamento culposo,9773
+11971,Difusão culposa de doença ou praga,9773
+11972,Desastre ferroviário culposo,3491
+11973,Desastre ferroviário culposo,9773
+11974,Cláusulas Abusivas,1156
+11977,Alienação Parental,10577
+11978,Invasão de Dispositivo Informático,3412
+11979,Violência Doméstica Contra a Mulher,9634
+11980,Usucapião Conjugal,10455
+11981,Exploração Sexual,9964
+11982,Separação de Corpos,9192
+11986,Suspensão ou Extinção do Poder Familiar,10577
+11993,Internação Compulsória,11854
+11994,Internação Voluntária,11854
+11995,Internação Involuntária,11854
+12030,Internação Compulsória,10688
+12031,Desapropriação para Regularização de Comunidade Quilombola / Dec. 4887/2003,10120
+12044,Registro de Candidatura - DRAP Partido/Coligação,11615
+12045,Prestação de Contas,11583
+12046,Prestação de Contas - De Candidato,12045
+12047,Prestação de Contas - De Comitê Financeiro,12045
+12048,Prestação de Contas - De Exercício Financeiro,11747
+12049,Impugnação,11583
+12050,Impugnação - Identidade de Eleitor Admitido a Votar,12049
+12051,Impugnação - Inscrição Eleitoral,12049
+12052,Impugnação - Nomeação de Membro da Junta Eleitoral,12049
+12053,Impugnação - Nomeação de Membro da Mesa Receptora,12049
+12054,Impugnação - Sistema Eletrônico de Votação,12049
+12055,Impugnação - Transferência de Domicílio Eleitoral,12049
+12056,Impugnação - Voto por Cédula,12049
+12062,Captação ou Gasto Ilícito de Recursos Financeiros de Campanha Eleitoral,11716
+12063,Conduta Vedada ao Agente Público,11716
+12064,Meios Processuais,11428
+12069,Prestação de Contas - de Partido Político,11747
+12090,Perda ou Modificação de Guarda,9964
+12091,Feminicídio,3369
+12130,Homicídio Agravado pela Prática de Extermínio de Seres Humanos,3369
+12131,Homicídio Agravado pelo Extermínio de Seres Humanos,9635
+12152,Revisão de Tutela Antecipada,8826
+12155,Suspensão do Poder Familiar,11986
+12156,Extinção do Poder Familiar,11986
+12157,Internação Provisória,10688
+12159,Registro de Ocorrência pela PM,1209
+12160,Requerimento de Reintegração de Posse,10670
+12161,Requerimento de Apreensão de Veículo,10670
+12162,Cremação/Traslado,7673
+12194,Contra a Mulher,5560
+12195,Contra pessoas não identificadas como mulher,5560
+12196,Contra a mulher,9647
+12222,Fornecimento de medicamentos,6233
+12223,Tratamento médico-hospitalar,6233
+12224,Unidade de terapia intensiva (UTI) ou Unidade de cuidados intensivos (UCI),6233
+12225,Reajuste contratual,6233
+12235,Tutela,5626
+12236,Nomeação,12235
+12237,Dispensa,12235
+12238,Remoção,12235
+12241,Curatela,5626
+12242,Levantamento,12241
+12243,Remoção,12241
+12244,Dispensa,12241
+12245,Nomeação,12241
+12333,Crimes previstos na Lei da Organização Criminosa,287
+12334,"Promoção, constituição, financiamento ou integração de Organização Criminosa",12333
+12335,Crimes ocorridos na investigação da prova,12333
+12336,"Revelação de identidade, fotografia ou filmagem do colaborador",12335
+12337,Imputação falsa de prática de infração penal ou revelação inverídica sobre estrutura de organização criminal,12335
+12338,Descumprimento de determinação de sigilo,12335
+12339,"Recusa ou omissão de dados cadastrais, registros, documentos e informações",12335
+12340,Provocação de tumulto ou conduta inconveniente,3692
+12341,Apadrinhamento de Criança ou Adolescente,9964
+12342,"Crimes cometidos contra autoridade ou agente descrito nos arts. 142 e 143 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública",287
+12343,"Fabrico, comércio ou detenção de arma branca ou munição",3692
+12344,Porte de arma (branca),3692
+12345,Vias de fato,3692
+12346,Omissão de cautela na guarda ou condução de animal,3692
+12347,Perturbação do trabalho ou do sossego alheios,3692
+12348,Simulação de Qualidade de Funcionário,3692
+12349,Uso ilegítimo de uniforme ou distintivo,3692
+12350,Jogo de azar,3692
+12351,Loteria não autorizada,3692
+12352,Jogo do bicho,3692
+12353,Servir bebidas alcóolicas a vulneráveis,3692
+12354,Perturbação da tranquilidade,3692
+12355,Omissão de comunicação de crime,3692
+12356,Recusa de dados sobre a própria identificação ou qualificação,3692
+12358,Feminicídio,9635
+12360,Matéria Administrativa,11557
+12362,Autorização de Divulgação de Publicidade Institucional,11583
+12363,Cancelamento de Registro de Candidatura,11615
+12364,Debate Eleitoral,11583
+12365,Enquete,11583
+12366,Execução - Cumprimento de Sentença,11729
+12367,Fundo Partidário,11747
+12382,Fusão de Partidos Políticos,11747
+12383,Perda por crime contra titular do mesmo poder ou descendente (L. 13.715/2018),12156
+12384,Importunação Sexual,9740
+12385,"Divulgação de cena de estupro, sexo ou pornografia",9740
+12392,Inelegibilidade - Renúncia a cargo político na pendência de representação ou petição que possa levar a outra causa de inelegibilidade,11595
+12393,Inelegibilidade - Exclusão do exercício de profissão,11595
+12395,Inelegibilidade - Aposentadoria Compulsória ou PAD (magistrados e membros do MP),11595
+12396,Inelegibilidade - Demissão do serviço público,11595
+12397,Importunação Sexual,3463
+12398,"Divulgação de cena de estupro, sexo ou pornografia",3463
+12400,Nulidade - Ausência de publicidade de decisão,8919
+12401,Nulidade - Ausência de Fundamentação de Decisão,8919
+12402,Nulidade - Impedimento,8919
+12403,Nulidade - Suspeição,8919
+12404,Nulidade - Ausência de Nome das Partes,8919
+12405,Nulidade - Ausência de Identificação de Advogado ou de Sociedade de Advogados,8919
+12406,Nulidade - Ausência de Intimação do Ministério Público,8919
+12407,Nulidade - Citação Sem Observância das Prescrições Legais,8919
+12408,Nulidade - Intimação Sem Observância das Prescrições Legais,8919
+12411,"Nulidade - Título Extrajudicial Não Correspondente a Obrigação Certa, Líquida e Exigível ",8919
+12412,Nulidade - Ausência de Citação do Executado,8919
+12413,Nulidade - Execução Instaurada Antes de Condição ou Termo,8919
+12414,Ausência de Legitimidade para a Causa,10736
+12415,"Poderes, Deveres e Responsabilidades do Juiz",8884
+12416,Tutela de Urgência,9192
+12417,Tutela de Evidência,9192
+12418,Revisão de Tutela Antecipada Antecedente,9192
+12419,Provas em geral,8990
+12420,Tempestividade,9060
+12460,Corregedoria Eleitoral,11428
+12461,Correição ordinária,12460
+12462,Correição extraordinária,12460
+12467,"QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO",
+12468,Brumadinho,12467
+12469,Boate Kiss,12467
+12470,Mariana,12467
+12471,Unaí,12467
+12480,DIREITO DA SAÚDE,
+12481,Pública,12480
+12482,Suplementar,12480
+12483,Internação/Transferência Hospitalar,12481
+12484,Fornecimento de medicamentos,12481
+12485,Fornecimento de insumos,12481
+12486,Planos de saúde,12482
+12487,Fornecimento de medicamentos,12486
+12488,Reajuste contratual,12486
+12489,Tratamento médico-hospitalar,12486
+12490,Fornecimento de insumos,12486
+12491,Tratamento médico-hospitalar,12481
+12492,Registrado na ANVISA,12484
+12493,Sem registro na ANVISA,12484
+12494,Padronizado,12492
+12495,Não padronizado,12492
+12496,Oncológico,12484
+12497,Curativos/Bandagem,12485
+12498,Cadeira de rodas / cadeira de banho / cama hospitalar,12485
+12499,Fraldas,12485
+12500,Consulta,12491
+12501,Cirurgia,12491
+12502,Eletiva,12501
+12503,Urgência,12501
+12504,Diálise/Hemodiálise,12491
+12505,Leito de enfermaria / leito oncológico,12483
+12506,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),12483
+12507,Mental,12480
+12508,Internação compulsória,12507
+12509,Internação involuntária,12507
+12510,Internação voluntária,12507
+12511,Sistema Único de Saúde (SUS),12481
+12512,Convênio médico com o SUS,12511
+12513,Financiamento do SUS,12511
+12514,Reajuste da tabela do SUS,12511
+12515,Repasse de verbas do SUS,12511
+12516,Ressarcimento do SUS,12511
+12517,Terceirização do SUS,12511
+12518,Controle Social e Conselhos de Saúde,12511
+12519,Vigilância Sanitária e Epidemológica,12481
+12520,Genética / Células Tronco,12480
+12521,"Doação e transplante de órgãos, tecidos ou partes",12480
+12542,Real,3397
+12543,Preconceituosa,3397
+12544,Simples,3397
+12545,Simples,9658
+12546,Real,9658
+12547,Preconceituosa,9658
+12563,Alistamento Eleitoral - Estrangeiro,11574
+12564,Alistamento Eleitoral - Fraude,11574
+12565,Coincidência Biométrica,11574
+12566,Ausência ou Abandono aos Trabalhos Eleitorais,11583
+12568,Pedido de Dispensa de Convocação para Trabalhos Eleitorais,11583
+12569,Dados Pessoais,12460
+12570,Perda,12460
+12571,Pluralidade de Inscrições,12460
+12572,Regularização da Base de Perda e Suspensão (BPSDP),12571
+12574,Regularização da Base de Perda e Suspensão (BPSDP),12460
+12575,Regularização de Histórico,12460
+12576,Regularização de Histórico - Exclusão de Códigos de ASE,12575
+12577,"Regularização de Histórico - Retificação de Data de Ocorrência, Motivo/Forma, Complemento e Situação",12575
+12578,Regularização de Histórico - Lançamento de Códigos de ASE,12575
+12579,Regularização de Histórico - Retificação de Dados Pessoais,12575
+12580,Regularização de Histórico - Cancelamento por Equívoco,12575
+12581,Reversão de Operação,12460
+12582,Reversão de Operação - Revisão Equivocada,12581
+12583,Reversão de Operação - Transferência Equivocada,12581
+12584,Revogação,12460
+12585,Reversão de Desfiliação,11759
+12586,Filiação Partidária - Lista Especial,11755
+12590,Apuração de Irregularidade na Conduta Funcional,11562
+12591,Assegurar Conhecimento de Informações Relativas à Pessoa do Impetrante,11702
+12592,Direito Líquido e Certo,11702
+12593,Impugnação de Ato Judicial,11702
+12594,Inviabilidade do Exercício dos Direitos e Liberdades Constitucionais,11702
+12595,"Inviabilidade do Exercício das Prerrogativas Inerentes à Nacionalidade, à Soberania e à Cidadania",11702
+12596,Retificação de Dados,11702
+12597,Percentual de Gênero - Candidatura Fictícia,11716
+12598,Requerimento de Regularização da Situação de Inadimplência de Prestação de Contas,11428
+12599,Requerimento de Acesso ao Sistema Interno de Controle e Dados de Pesquisas Eleitorais,11428
+12600,Candidato Eleito,11584
+12601,Candidato Não-Eleito,11584
+12602,Prestação de Contas - de Partido Político,12045
+12603,Revisão de Eleitorado,11428
+12604,Revisão de Eleitorado - Cadastramento Biométrico,12603
+12605,Revisão de Eleitorado - Depuração de Cadastro,12603
+12612,COVID-19,12467
+12620,Migrantes e Refugiados,12467
+12634,Apropriação Indébita Eleitoral,11467
+12635,Propaganda Política - Propaganda Eleitoral - Divulgação de Notícia Sabidamente Falsa,11652
+12636,Propaganda Política - Propaganda Eleitoral - Telemarketing,11652
+12637,Propaganda Política - Propaganda Eleitoral - Redes Sociais,11652
+12638,Propaganda Política - Propaganda Eleitoral - Impulsionamento,11652
+12639,Propaganda Política - Propaganda Eleitoral - Aplicativo de Mensagem Instantânea,11652
+12641,Reversão de Operação - Segunda Via,12581
+12642,Processamento de Recurso Contra Expedição de Diploma,11557
+12644,Requerimentos Relativos ao Horário Eleitoral Gratuito,11669
+12725,Regularização de Contas Eleitorais,11692
+12726,Regularização de Contas Anuais,11747
+12730,Acordo de Não Persecução Penal,7942
+12731,Transação Penal,7942
+12732,Suspensão Condicional de Processo,7942
+12734,DIREITO ASSISTENCIAL,
+12754,Auxílio Emergencial (Lei 13.982/2020),12734
+12755,Direito Coletivo,1156
+12756,Interesses ou Direitos Difusos,12755
+12757,Interesses ou Direitos Coletivos em Sentido Estrito,12755
+12758,Interesses ou Direitos Individuais Homogêneos,12755
+12770,Obras Públicas,10421
+12771,Reconhecimento de Paternidade/Maternidade Socioafetiva,7725
+12772,"Anúncio de Processo, Substância ou Objeto Destinado a Provocar Aborto ",3692
+12773,Internação Não Autorizada em Estabelecimento Psiquiátrico,3692
+12774,Custódia de Doente Mental Sem Autorização do Responsável,3692
+12775,DREITO À EDUCAÇÃO,
+12793,EDUCAÇÃO BÁSICA,12775
+12794,PERMANÊNCIA,12775
+12795,ACESSO,12775
+12796,EDUCAÇÃO ESPECIAL,12775
+12797,QUALIDADE,12775
+12798,AVALIAÇÃO E CONTROLE,12775
+12799,GESTÃO ,12775
+12800,VALORIZAÇÃO DO MAGISTÉRIO E DOS PROFISSIONAIS DA EDUCAÇÃO,12775
+12801,FINANCIAMENTO,12775
+12802,PLANOS DECENAIS,12775
+12803,VAGA,12795
+12804,PROCESSO SELETIVO,12795
+12805,ACESSO SEM CONCLUSÃO DO ENSINO MÉDIO,12795
+12806,CONVALIDAÇÃO DE ESTUDOS E RECONHECIMENTO DE DIPLOMA,12795
+12807,TRANSFERÊNCIA DISCENTE,12795
+12809,COTA PARA INGRESSO - AÇÕES AFIRMATIVAS,12795
+12810,ITINERÁRIOS FORMATIVOS,12795
+12811,AUTORIZAÇÃO E RECONHECIMENTO DE CURSOS,12798
+12812,CREDENCIAMENTO E RECREDENCIAMENTO ,12798
+12813,ENADE,12798
+12814,AUTORIZAÇÃO DE FUNCIONAMENTO/FISCALIZAÇÃO DE ESTABELECIMENTOS DE ENSINO,12798
+12815,ENSINO MÉDIO REGULAR,12793
+12816,EDUCAÇÃO FUNDAMENTAL REGULAR - ANOS FINAIS,12793
+12817,EDUCAÇÃO FUNDAMENTAL REGULAR - ANOS INICIAIS,12793
+12818,EDUCAÇÃO INFANTIL - CRECHE,12793
+12819,EDUCAÇÃO INFANTIL - PRÉ-ESCOLA,12793
+12820,EJA - ENSINO MÉDIO,12793
+12821,EJA - ENSINO FUNDAMENTAL - ANOS INICIAIS,12793
+12822,EJA - ENSINO FUNDAMENTAL - ANOS FINAIS,12793
+12823,SISTEMA SOCIOEDUCATIVO,12793
+12824,ÍNDIGENAS,12793
+12825,QUILOMBOLAS,12793
+12826,ENSINO NOTURNO,12793
+12827,PROFISSIONAIS DE APOIO,12796
+12828,SALA DE RECURSOS MULTIFUNCIONAIS,12796
+12829,INSTITUCIONALIZAÇÃO PEDAGÓGICA DO ATENDIMENTO EDUCACIONAL ESPECIALIZADO,12796
+12830,ACESSIBILIDADE FÍSICA,12796
+12831,"MATERIAL DIDÁTICO ESPECIALIZADO, TECNOLOGIAS ASSISTIVAS E SUPORTE",12796
+12832,EDUCAÇÃO SUPERIOR,12775
+12833,"GRADUAÇÃO (BACHARELADO, LICENCIATURA, PROFISSIONAL TECNOLÓGICA)",12832
+12834,PÓS-GRADUAÇÃO,12832
+12835,ENSINO À DISTÂNCIA,12775
+12837,Despesa,12801
+12838,MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO,12837
+12839,ESTATUTOS E REGIMENTOS - REGRAS DE CONVIVÊNCIA E SANÇÕES DISCIPLINARES,12799
+12840,AUTONOMIA DA INSTITUIÇÃO DE ENSINO,12799
+12841,MENSALIDADES,12794
+12842,EXPEDIÇÃO DE DIPLOMAS E OMISSÃO NA ENTREGA DAS NOTAS,12794
+12843,PROGRAMAS DE BOLSAS E FINANCIAMENTO ESTUDANTIL COM RECURSOS PÚBLICOS,12794
+12844,FIES,12843
+12845,PROUNI,12843
+12846,OUTROS,12843
+12848,EVASÃO E ABANDONO,12794
+12849,"PROGRAMAS DE ASSISTÊNCIA ESTUDANTIL - ALIMENTAÇÃO, MORADIA, CRECHE, TRANSPORTE",12794
+12850,PLANO MUNICIPAL DE EDUCAÇÃO,12802
+12851,PROCESSO DE ELABORAÇÃO,12850
+12852,DISTORÇÃO DE SÉRIE/IDADE,12797
+12853,EXAMES DE CERTIFICAÇÃO - DIPLOMA,12797
+12854,INFREQUÊNCIA ESCOLAR,12797
+12855,TRANSPORTE,12797
+12856,MATERIAL DIDÁTICO,12797
+12857,"BULLYING, VIOLÊNCIA E DISCRIMINAÇÃO",12797
+12858,FORMAÇÃO TÉCNICA PROFISSIONAL,12797
+12860,QUANTIDADE DE ALUNOS POR SALA,12797
+12861,RELAÇÕES ÉTNICO-RACIAIS,12797
+12862,ALIMENTAÇÃO ESCOLAR,12797
+12863,REGIME HOSPITALAR OU DOMICILIAR DURANTE PERÍODO DE INTERNAÇÃO,12797
+12864,INFRAESTRUTURA,12797
+12865,ESTUDOS DE RECUPERAÇÃO,12797
+12866,JORNADA DE TRABALHO,12800
+12867,CARGA HORÁRIA DE AULAS/PROCESSO DE ATRIBUIÇÃO DE AULAS E CLASSES,12866
+12868,ABSENTEÍSMO DOCENTE,12800
+12869,LICENÇAS,12868
+12870,FALTAS ,12868
+12871,LICENÇA SAÚDE,12869
+12872,OUTRAS LICENÇAS,12869
+12873,FALTAS JUSTIFICADAS,12870
+12874,FALTAS NÃO JUSTIFICADAS,12870
+12875,APOSENTADORIA ESPECIAL,12800
+12876,ESPÉCIES DE VÍNCULO DE TRABALHO,12800
+12877,CONTRATO TEMPORÁRIO,12876
+12878,ESTATUTÁRIO,12876
+12879,ENSINO À DISTÂNCIA,12800
+12880,CERTIFICAÇÃO,12879
+12881,PLANO DE CARREIRA,12800
+12882,PROGRESSÃO,12881
+12883,CERTIFICAÇÃO,12881
+12884,CONCURSO DE INGRESSO,12881
+12885,REMUNERAÇÃO,12800
+12887,PISO SALARIAL,12885
+12888,GREVE,12800
+12889,CONTRATO TEMPORÁRIO,12888
+12890,OUTROS,12888
+12891,FORMAÇÃO ,12800
+12892,CONTINUADA,12891
+12893,AUSÊNCIA DE VAGA,12803
+12894,CORTE ETÁRIO,12803
+12895,ACESSO PRÓXIMO DO DOMICÍLIO,12803
+12896,MATRÍCULA DE IRMÃOS NA MESMA ESCOLA,12803
+12897,PRIORIDADE DE MATRÍCULA PARA ALUNOS COM DEFICIÊNCIA,12803
+12899,VESTIBULAR,12804
+12900,ACESSIBILIDADE ,12899
+12901,OUTROS,12899
+12902,EXAMES OFICIAIS PARA INGRESSO - ENEM,12804
+12903,ACESSIBILIDADE ,12902
+12904,OUTROS,12902
+12905,OUTROS,12804
+12906,ACESSIBILIDADE ,12905
+12907,OUTROS,12905
+12908,MILITAR,12807
+12909,OUTRAS,12807
+12910,FORMAÇÃO TÉCNICA E PROFISSIONAL,12810
+12911,Intinerários Formativos do Ensino Médio,12810
+12912,Taxa de Inscrição,12902
+12913,Taxa de Inscrição,12905
+12914,Taxa de Inscrição,12899
+12915,Sistema Prisional,12793
+12916,Plano Estadual de Educação,12802
+12917,Plano Nacional de Educação,12802
+12918,Processo de Elaboração,12917
+12919,Processo de Elaboração,12916
+12920,Residência Médica,12797
+12921,Penalidades Disciplinares,12799
+12922,Omissão na Entrega de Notas,12797
+12924,Jubilamento de Aluno,12799
+12925,Financiamento Privado do Ensino Superior e/ou Pesquisa,12801
+12926,Exigência de Estágio Profissionalizante,12797
+12927,Currículo Escolar,12797
+12928,Colisão de Horário,12797
+12929,Colação de Grau,12794
+12930,Cursos Extracurriculares,1156
+12931,Cobrança,12930
+12935,Bem de Família Legal,899
+12936,Direito Individual do Trabalho ,864
+12937,Direitos da Personalidade ,899
+12940,Mandado de Segurança ,8826
+12942,Prescrição e Decadência no Direito do Trabalho ,864
+12943,Processo Coletivo ,8826
+12945,"Questões de Alta Complexidade, Grande Impacto e Repercussão ",864
+12946,Ação Civil Pública ,12943
+12948,Anulação / Nulidade de Ato ou Negócio Jurídico ,12936
+12949,Arbitragem e Mediação no Direito Coletivo ,1695
+12950,Arbitragem e Mediação no Direito Individual do Trabalho ,12936
+12953,Auditores Fiscais em Unaí ,12945
+12956,Barragem em Brumadinho e Mariana ,12945
+12959,Cadastro Reserva ,10370
+12960,Capacidade Civil ,12936
+12961,Comissão de Representantes dos Empregados ,12936
+12964,Condutas Antissindicais ,1695
+12969,Decadência ,12942
+12973,Depósito Prévio de Multa Administrativa ,12940
+12975,Descontos Fiscais ,12936
+12976,Descontos Previdenciários ,12936
+12979,Devolução / Entrega de Objetos / Documentos ,12936
+12981,Direito de Greve ,1695
+12997,Incêndio Boate Kiss ,12945
+13004,Legitimidade - Autoridade Coatora ,12940
+13007,Mandado de Segurança Coletivo ,12943
+13013,Negociação Coletiva Trabalhista ,1695
+13016,Organização Sindical ,1695
+13019,Penhora de Salário / Proventos ,12940
+13021,Poder Normativo ,1695
+13023,Prazo Decadencial ,12940
+13041,Trabalho com Proteção Especial ,12936
+13044,Abusividade / Ilegalidade,12981
+13045,Ação Anulatória ,11786
+13048,Acordo e Convenção Coletivos de Trabalho ,13013
+13063,Anulação de Constituição de Sindicato ,13016
+13068,Assinatura Eletrônica / Digital ,8868
+13070,Astreintes ,12946
+13074,Atribuições e Competências ,12961
+13077,Autoridade Coatora ,13007
+13085,Bloqueio / Desbloqueio de Valores ,8961
+13087,Cabimento ,13007
+13088,Cabimento / Interesse Processual ,12946
+13091,Chamamento ao Processo ,8859
+13098,Competência ,13007
+13101,Competência Territorial ,12946
+13105,Comprovação de Repasse de Contribuição ,13016
+13112,Constituição e Composição ,12961
+13128,Criação de Sindicato - Desmembramento ,13016
+13134,Deficiente Físico ,13041
+13135,Denunciação da Lide ,8859
+13150,Embargos de Terceiro ,11786
+13151,Emenda a Inicial ,13007
+13155,Enquadramento Sindical ,13016
+13162,Estatuto Social da Empresa ,8868
+13168,Extrajudicial ,12948
+13176,Forma de Cálculo ,12975
+13177,Forma de Cálculo ,12976
+13179,Garantias Sindicais ,13016
+13185,Honorários Periciais ,8874
+13186,Horas Extras ,10287
+13188,Impedimento ,8888
+13191,Incidência em Indenização PDV / PDI ,12975
+13199,Indígena ,13041
+13209,Intervalo ,10287
+13211,Judicial ,12948
+13215,Juros de Mora ,12975
+13216,Juros de Mora ,
+13218,Legitimidade ,13007
+13219,Legitimidade Ativa ,12946
+13226,Menor ,13041
+13234,Nomeação à Autoria ,8859
+13235,Norma Coletiva ,13013
+13239,Oposição ,8859
+13253,Período de Graça ,
+13254,Permuta ,10187
+13258,Prazo Decadencial ,13007
+13259,Preposto ,8873
+13267,Procurador de Entes Públicos / Autárquicos / Fundacionais ,8868
+13271,Prova Pré-constituída ,13007
+13276,Receitas Sindicais ,13016
+13280,Registro de Entidade Sindical ,13016
+13290,Responsabilidade ,12975
+13291,Responsabilidade ,12976
+13295,Revisão ,10250
+13299,Sentença Normativa ,13021
+13304,Suspeição ,8888
+13307,Tácito ,8868
+13312,Termo de Ajustamento de Conduta - TAC ,12946
+13319,Tutela Inibitória (Obrigação de Fazer e Não Fazer) ,12946
+13323,Vitaliciamento ,10187
+13345,Anulação/Nulidade ,13235
+13346,Aplicabilidade ,13299
+13347,Aplicabilidade/Cumprimento ,13235
+13370,Categoria Econômica ,13155
+13371,Categoria Profissional ,13155
+13372,Categoria Profissional Diferenciada ,13155
+13373,Cessão entre Órgão / Empresa ,13112
+13385,Contratuais ,10655
+13406,Dispensa / Rescisão do Contrato de Trabalho ,13044
+13412,Eleição ,13112
+13425,Estabilidade do Representante Eleito ,13112
+13426,Estabilidade Provisória ,13179
+13428,Extensão / Prorrogação ,13299
+13456,Inamovibilidade de Dirigente Sindical ,13179
+13476,Mandato ,13112
+13477,Mensalidade Sindical ,13276
+13481,Multa Convencional ,13048
+13483,Multa por Descumprimento de Ordem Judicial ,13044
+13489,Outras Garantias Oriundas de Normas da OIT ,13179
+13509,Prevalência do Acordo Coletivo sobre a Convenção Coletiva ,13048
+13510,Prevalência do Negociado Sobre o Legislado ,13235
+13528,Revisão ,13299
+13531,Salário / Pagamento ,13044
+13537,Sucumbenciais ,10655
+13541,Suspensão da Cobrança - Devedor Beneficiário de Assistência Judiciária Gratuita ,10655
+13543,Taxa SELIC ,10685
+13550,Trabalhador Temporário ,13155
+13551,Trabalhador Terceirizado ,13155
+13557,Multa por Atraso de Repasse de Contribuição ,13276
+13563,Vigência/Ultratividade ,13235
+13603,Perda de Eficácia ,8961
+13617,Indenização Relacionada ao Exercício do Direito de Greve,12981
+13618,Interdito Proibitório,12981
+13620,Contribuição Assistencial,13276
+13621,Contribuição Sindical,13276
+13622,Contribuição Sindical Rural,13276
+13623,Representação Sindical,13016
+13624,Unicidade Sindical,13623
+13625,Depósito Prévio - Recurso Administrativo,13623
+13626,Aposentadoria e Pensão,12936
+13627,Complementação de Aposentadoria/Pensão,13626
+13628,Abono Previsto em Norma Coletiva/Extensão aos Inativos,13627
+13629,Auxílio/Cesta Alimentação,13627
+13630,Caixa de Previdência,13627
+13631,Cheque Rancho - Integração,13627
+13632,Especial,13627
+13633,Fonte de Custeio,13627
+13634,Gratificação de Contingente e/ou Participação nos Resultados - Avanço de Nível,13627
+13635,Parcelas Que Integram a Aposentadoria,13627
+13636,Plano de Incentivo,13627
+13637,Prêmio,13627
+13638,Reenquadramento,13627
+13639,Transação,13636
+13640,Espontânea,13626
+13641,Categoria Profissional Especial,12936
+13642,Administradores,13641
+13643,Advogados,13641
+13644,Aeronautas,13641
+13645,Aeroviários,13641
+13646,Artistas,13641
+13647,Assistentes Sociais,13641
+13648,Bancários,13641
+13649,Bibliotecários,13641
+13650,Biólogos,13641
+13651,Cabineiros de Elevador,13641
+13652,Contabilistas,13641
+13653,Corretores de Imóveis,13641
+13654,Corretores de Seguros,13641
+13655,Digitadores/Mecanógrafos/Datilógrafos,13641
+13656,Domésticos,13641
+13657,Economistas,13641
+13658,Empregados Portuários,13641
+13659,Enfermagem/Enfermeiros,13641
+13660,"Engenheiro, Arquiteto e Engenheiro Agrônomo",13641
+13661,Fisioterapeutas/Terapeutas Ocupacionais,13641
+13662,Jornalistas,13641
+13663,Marítimos,13641
+13664,Médicos,13641
+13665,Mineiros de Subsolos,13641
+13666,Músicos Profissionais,13641
+13667,Professores,13641
+13668,Psicólogos,13641
+13669,Publicitários,13641
+13671,Radialistas,13641
+13672,Relações Públicas,13641
+13673,Rural,13641
+13674,Secretários,13641
+13675,Serviços de Telefonia ou Telegrafia,13641
+13676,Operador de Telemarketing,13641
+13677,Técnico em Radiologia,13641
+13678,Petroleiros,13641
+13679,Vigia e Vigilantes,13641
+13680,Dedicação Exclusiva,13643
+13681,Empregados,13643
+13682,Cargo de Confiança,13648
+13683,Divisor de Horas Extras,13648
+13684,Enquadramento,13648
+13685,Gerentes/Chefia,13648
+13686,Gratificação,13648
+13687,Intervalo Intrajornada,13648
+13688,Sábado/Dia Útil,13648
+13689,Categoria Diferenciada,13684
+13690,Financeiras/Equiparação Bancário,13684
+13691,Empresa de Processamento de Dados,13684
+13692,isonomia/Diferença Salarial,13684
+13693,Equiparação Salarial,13655
+13694,Adicional de Risco,13658
+13695,Hora Noturna/Hora Extra,13658
+13696,Piso Salarial,13660
+13697,Nutricionistas,13641
+13698,Operadores Cinematográficos,13641
+13699,Operadores de Carga e Descarga (Estiva e Capatazia),13641
+13700,Outras Categorias Profissionais,13641
+13701,Atividade Extraclasse,13667
+13702,Hora Extra/Adicional,13667
+13703,Redução Carga Horária,13667
+13704,Repouso Semanal Remunerado,13667
+13705,Jornada,13678
+13706,Ferroviários,13641
+13707,Contrato Individual de Trabalho,12936
+13708,Administração Pública,13707
+13709,Advertência/Suspensão,13707
+13710,Alteração Contratual ou das Condições de Trabalho,13707
+13711,Contratação de Reabilitados e Deficientes Habilitados,13707
+13712,Contrato em Regime de Tempo Parcial,13707
+13713,Contrato Intermitente,13707
+13714,Teletrabalho/Trabalho à Distância/Trabalho em Domicílio,13707
+13715,Contrato por Prazo Determinado,13707
+13716,CTPS,13707
+13717,Enquadramento/Classificação,13707
+13718,Exame Médico Adminissional/Demissional,13707
+13719,FGTS,13707
+13720,inquérito Administrativo - Validade,13707
+13721,PIS/RAIS - Cadastramento,13707
+13722,Reconhecimento de Relação de Emprego,13707
+13723,Reintegração de Posse - Despejo,13707
+13724,Suspensão/Interrupção do Contrato de Trabalho,13707
+13725,Unicidade Contratual,13707
+13726,Cessão entre Órgão/Empresa,13708
+13727,Contratação em Período Eleitoral,13708
+13728,Contrato Nulo - Efeitos,13708
+13729,Contrato Temporário,13708
+13730,Conversão de Regime Jurídico,13708
+13731,Terceirização,13708
+13732,Acúmulo de Função,13710
+13733,Desvio de Função,13710
+13734,Reversão/Retorno ao Cargo Efetivo,13710
+13735,Alteração/Revogação de Regulamento da Empresa,13710
+13736,Transferência,13710
+13737,Mudança de Turno,13710
+13738,Definitiva/Provisória,13736
+13739,Programa de Assistência Médica - Benefícios,13735
+13740,Quota Preenchimento,13711
+13741,Contrato de Experiência - Nulidade,13715
+13742,Contrato de Safra,13715
+13743,Contrato de Trabalho Temporário/Provisório,13715
+13744,Nulidade,13715
+13745,Anotação/Baixa/Retificação,13716
+13746,Devolução/Retenção,13716
+13747,Multa Administrativa por Ausência de Registro,13716
+13748,Correção Monetária,13719
+13749,Depósito/Diferenças,13719
+13750,Levantamento/Liberação,13719
+13751,Atividades Ilícitas,13722
+13752,Cooperativa de Trabalho,13722
+13753,Policial Militar e Civil,13722
+13754,Trabalho em Condições Análogas à de Escravo,13722
+13755,Trabalho sob Aplicativos e/ou Plataformas Digitais,13722
+13756,Outras Relações de Emprego,13722
+13757,Licenças/Afastamentos,13724
+13758,Gestante/Adotante,13757
+13759,Licença Previdenciária,13757
+13760,Licença sem Remuneração,13757
+13761,Afastamento Mulher - Lei Maria da Penha,13757
+13762,Outras Licenças,13757
+13763,Serviço Militar,13757
+13764,Duração do Trabalho,12936
+13765,Adicional Noturno,13764
+13766,Alteração da Jornada,13764
+13767,Compensação de Jornada,13764
+13768,Controle de Jornada,13764
+13769,Horas Extras,13764
+13770,Horas in Itinere,13764
+13771,intervalo Interjonadas,13764
+13772,Intervalo Intrajornada,13764
+13773,Repouso Semanal Remunerado e Feriado,13764
+13774,Sobreaviso/Prontidão/Tempo à Disposição,13764
+13775,Trabalho Externo,13764
+13776,Turno Ininterrupto de Revezamento,13764
+13777,Prorrogação do Horário Noturno,13765
+13778,Acordo Individual e/ou Coletivo de Trabalho,13766
+13779,Trabalho em Domicílio/Teletrabalho,13766
+13780,Acordo Tácito/Expresso,13767
+13781,Banco de Horas,13767
+13782,Compensação em Atividade Insalubre,13767
+13783,Outros Sistemas de Compensação,13767
+13784,Regime 12x36,13767
+13785,Vício Formal - Pagamento do Adicional de Horas Extras,13767
+13786,Cartão de Ponto,13768
+13787,Adicional de Horas Extras,13769
+13788,Base de Cálculo,13769
+13789,Cargo de Confiança,13769
+13790,Comissionista,13769
+13791,Contagem de Minutos Residuais,13769
+13792,Dedução/Abatimento de Horas Extras,13769
+13793,Divisor,13769
+13794,Gorjeta,13769
+13795,Pré-contratação,13769
+13796,Reflexos,13769
+13797,Supressão/Redução de Horas Extras/Indenização,13769
+13798,Supressão/Limitação por Norma Coletiva,13770
+13799,Adicional de Hora Extra,13772
+13800,Intervalo 15 Minutos Mulher,13772
+13801,Jornada Contratual de 6 Horas - Prorrogação,13772
+13802,Natureza Jurídica da Parcela/Repercussão,13772
+13803,Redução/Supressão,13772
+13804,Cálculo/Repercussão,13773
+13805,Feriado em Dobro,13773
+13806,Trabalho aos Domingos,13773
+13807,Hora Noturna Reduzida,13776
+13808,Previsão de 8 Horas - Norma Coletiva,13776
+13809,Férias,12936
+13810,Abono Pecuniário,13809
+13811,Base de Cálculo,13809
+13812,Férias Coletivas,13809
+13813,Fruição/Gozo,13809
+13814,Indenização/Dobra/Terço Constitucional,13809
+13815,Outras Relações de Trabalho,12936
+13816,Aprendizagem,13815
+13817,Estágio,13815
+13818,Equipe,13815
+13819,Cooperado,13815
+13820,Corretagem,13815
+13821,Diarista,13815
+13822,Empreitada,13815
+13823,Mãe Social,13815
+13824,Mandato,13815
+13825,Parceria,13815
+13826,Representante Comercial Autônomo,13815
+13827,Trabalhador Autônomo Não Especificado,13815
+13828,Trabalhador Avulso,13815
+13829,Trabalhador Eventual,13815
+13830,Trabalhador Voluntário,13815
+13831,"Verbas Remuneratórias, Indenizatórias e Benefícios",12936
+13832,Abono,13831
+13833,Adicional,13831
+13834,Ajuda de Custo,13831
+13835,Ajuda Combustível,13831
+13836,Ajuda Quilometragem,13831
+13837,Auxílio Creche,13831
+13838,Cesta Básica,13831
+13839,Comissões e Percentuais,13831
+13840,Complementação de Benefício Previdenciário,13831
+13841,Complemento Temporário Variável de Ajuste ao Piso de Mercado,13831
+13842,Contribuição de Previdência Privada - Resgate,13831
+13843,Décimo Terceiro Salário,13831
+13844,Descontos Salariais - Devolução,13831
+13845,Diárias,13831
+13846,Gorjeta,13831
+13847,Gratificação,13831
+13848,Gueltas,13831
+13849,Licenças e Folgas - Conversão em Pecúnia,13831
+13850,Multa Prevista em Norma Coletiva,13831
+13851,Participação nos Lucros e Resultados - PLR,13831
+13852,PIS - Indenização,13831
+13853,Plano de Saúde,13831
+13854,Prêmio,13831
+13855,Quebra de Caixa,13831
+13856,Restituição/Indenização de Despesas,13831
+13857,Retribuição por Invenção e Patente,13831
+13858,Salário/Diferença Salarial,13831
+13859,Seguro de Vida,13831
+13860,Sexta Parte,13831
+13861,Supressão/Redução de Horas Extras Habituais - Indenização,13831
+13862,Tarefa,13831
+13863,Auxílio/Tíquete Alimentação,13831
+13864,Vale Transporte,13831
+13865,Assiduidade,13832
+13866,Dedicação Integral,13832
+13867,Emergência,13832
+13868,Faltas,13832
+13869,Outros Abonos,13832
+13870,Permanência,13832
+13871,Adicional de Antiguidade,13833
+13872,Adicional de Caráter Pessoal,13833
+13873,Adicional de Confinamento,13833
+13874,Adicional de Dedicação Integral,13833
+13875,Adicional de Insalubridade,13833
+13876,Adicional de Penosidade,13833
+13877,Adicional de Periculosidade,13833
+13878,Adicional de Produtividade,13833
+13879,Adicional de Risco,13833
+13880,Adicional de Transferência,13833
+13881,Outros Adicionais,13833
+13882,Base de Cálculo,13875
+13883,Lixo Urbano,13875
+13884,Óleos Minerais,13875
+13885,Outros Agentes Insalubres,13875
+13886,Raios Solares,13875
+13887,Armazenamento de Líquido Inflamável,13877
+13888,Base de Cálculo,13877
+13889,Cumulação com Adicional de Insalubridade,13877
+13890,Eletricitário,13877
+13891,Hora Extra - Integração,13877
+13892,Percentual Inferior ao Legal - Norma Coletiva,13877
+13893,Radiação Ionizante ou Substância Radioativa,13877
+13894,Tempo de Exposição,13877
+13895,Desconto Assistencial,13844
+13896,Desconto por Dano - Norma Coletiva,13844
+13897,Desconto Sindical,13844
+13898,Frentista - Devolução de Cheque,13844
+13899,Outros Descontos Salariais,13844
+13900,Previ e Cassi/BB,13844
+13901,Seguro de Vida,13844
+13902,Integração ao Salário,13845
+13903,Natureza Jurídica da Parcela - Repercussão,13846
+13904,Gratificação Ajustada,13847
+13905,Gratificação Anual,13847
+13906,Gratificação de Aposentadoria,13847
+13907,Gratificação de Caixa,13847
+13908,Gratificação de Farmácia,13847
+13909,Gratificação de Férias,13847
+13910,Gratificação de Função,13847
+13911,Gratificação por Tempo de Serviço,13847
+13912,Gratificação Semestral,13847
+13913,Incorporação,13847
+13914,Outras Gratificações,13847
+13915,Produção,13854
+13916,Despesa com Chapa,13856
+13917,Despesa com Deslocamento,13856
+13918,Ferramentas Próprias,13856
+13919,Uniforme,13856
+13920,Aumento Compensatório Especial,13858
+13921,Diferença de Caixa,13858
+13922,Diferenças por Desvio de Função,13858
+13923,Função de Confiança - Incorporação,13858
+13924,Integração em Verbas Rescisórias,13858
+13925,Licença Prêmio,13858
+13926,Mínimo,13858
+13927,Período de Afastamento - Reintegração,13858
+13928,Piso Salarial da Categoria/Salário Mínimo Profissional,13858
+13929,Plano de Cargos e Salários,13858
+13930,Promoção,13858
+13931,Reajuste Salarial,13858
+13932,Salário Base - Obediência ao Salário Mínimo,13858
+13933,Salário Complessivo,13858
+13934,Salário Família,13858
+13935,Salário in Natura,13858
+13936,Salário Maternidade,13858
+13937,Salário Paternidade,13858
+13938,Salário por Acúmulo de Cargo/Função,13858
+13939,Salário por Equiparação/Isonomia,13858
+13940,Salário por Fora - Integração,13858
+13941,Salário por Safra,13858
+13942,Salário Substituição,13858
+13943,Salário Suplementar,13858
+13944,Salário Vencido/Retido,13858
+13945,Teto Salarial - Limitação,13858
+13946,Quadro de Carreira,13939
+13947,Multa pela Ilicitude da Discriminação Salarial,13939
+13949,Rescisão do Contrato de Trabalho,12936
+13950,Acordo Entre as Partes,13949
+13951,Comunicação de Dispensa aos Órgãos Competentes - Ausência,13949
+13952,Aposentadoria,13949
+13953,Culpa Recíproca,13949
+13954,Despedida/Dispensa Imotivada,13949
+13955,Dispensas Plúrimas,13949
+13956,Extinção do Estabelecimento/Empresa,13949
+13957,Extinção Normal do Contrato a Termo,13949
+13958,Força Maior/Factum Principis,13949
+13959,Fraude,13949
+13960,indenização por Tempo de Serviço,13949
+13961,Indenização por Rescisão Antecipada do Contrato a Termo,13949
+13962,Justa Causa/Falta Grave,13949
+13963,Morte,13949
+13964,Plano de demissão Voluntária/Incentivada,13949
+13965,Pedido de Demissão,13949
+13966,Quitação,13949
+13967,Reintegração/Readmissão ou Indenização Substitutiva,13949
+13968,Rescisão Indireta,13949
+13969,Seguro Desemprego,13949
+13970,Verbas Rescisórias,13949
+13971,FGTS - Levantamento Parcial e Multa de 20%,13950
+13972,Seguro Desemprego - Impossibilidade de Acesso,13950
+13973,Verbas Rescisórias,13950
+13974,Nulidade,13954
+13975,Obstativa,13954
+13976,Acordo - Comissão de Conciliação Prévia,13966
+13977,Termo de Quitação Anual,13966
+13978,Termo de Rescisão Contratual,13966
+13979,Anistia,13967
+13980,Contrato Suspenso,13967
+13981,Dirigente Sindical,13967
+13982,Empregado Público,13967
+13983,Estabilidade Acidentária,13967
+13984,Estabilidade Decorrente de Norma Coletiva,13967
+13985,Estabilidade do Dirigente de Cooperativa,13967
+13986,Estabilidade do Integrante de CCP,13967
+13987,Estabilidade do Representante da Empresa,13967
+13988,Gestante,13967
+13989,Membro de Cipa,13967
+13990,Dispensa Discriminatória,13967
+13991,Outras Hipóteses de Estabilidade,13967
+13992,Indenização,13969
+13993,Liberação/Entrega das Guias,13969
+13994,Aviso Prévio,13970
+13995,Décimo Terceiro Salário Proporcional,13970
+13996,Férias Proporcionais,13970
+13997,indenização Adicional,13970
+13998,Multa de 40% do FGTS,13970
+13999,Multa do Artigo 467 da CLT ,13970
+14000,Multa do Artigo 477 da CLT,13970
+14001,Saldo de Salário,13970
+14002,Contrato de Experiência,13994
+14003,Culpa Recíproca,13994
+14004,Indenizado - Efeitos,13994
+14005,Proporcional,13994
+14006,Expurgos Inflacionários,13998
+14007,Responsabilidade Civil do Empregador,12936
+14008,Indenização por Dano Estético,14007
+14009,Indenização por Dano Material,14007
+14010,Indenização por Dano Moral,14007
+14011,Indenização por Dano Moral Coletivo,14007
+14012,Acidente de Trabalho,14009
+14013,Constituição de Capital,14009
+14014,Doença Ocupacional,14009
+14015,Pensão Vitalícia,14009
+14016,Acidente de Trabalho,14010
+14017,Anotação/Retenção da CTPS,14010
+14018,Assédio Moral,14010
+14019,Assédio Sexual,14010
+14020,Atos Discriminatórios,14010
+14021,Condições Degradantes,14010
+14022,Controle de Correspondência Eletrônica,14010
+14023,Desconfiguração de Justa Causa,14010
+14024,Doença Ocupacional,14010
+14025,Fixação do Quantum,14010
+14026,Limitação de Uso do Banheiro,14010
+14027,Lista Suja,14010
+14028,Quebra de sigilo Bancário,14010
+14029,Revistas Íntimas/Pertences,14010
+14030,Valor Arbitrado,14010
+14031,Responsabilidade Civil em Outras Relações de Trabalho,12936
+14032,Indenização por Dano Material,14031
+14033,Indenização por Dano Moral,14031
+14034,Responsabilidade Solidária/Subsidiária,12936
+14035,Concessão de Serviço Público,14034
+14036,Grupo Econômico,14034
+14037,Sócio/Acionista,14034
+14039,Sucessão de Empregadores,14034
+14040,Terceirização/Tomador de Serviços,14034
+14041,Bancos,14039
+14042,Empreitada/Dono da Obra,14040
+14043,Ente Público,14040
+14044,Isonomia Salarial,14040
+14045,Licitude/Ilicitude,14040
+14046,Prescrição,12942
+14047,Ação Meramente Declaratória,14046
+14048,Acidente de trabalho,14046
+14049,Alteração Contratual,14046
+14050,Complementação de Aposentadoria/Pensão,14046
+14051,Comissões - Alteração ou Supressão,14046
+14052,Contagem do Prazo,14046
+14053,Contribuições Previdenciárias,14046
+14054,Desvio de Função e Reenquadramento,14046
+14055,Expurgos Inflacionários,14046
+14056,FGTS,14046
+14057,Intercorrente,14046
+14058,Interrupção,14046
+14059,Regime Jurídico - Mudança,14046
+14060,Ação Ajuizada pelo Sindicato como Substituto Processual,14058
+14061,Ação Trabalhista Arquivada,14058
+14062,Ato Inequívoco que Importe no Reconhecimento do Direito,14058
+14063,Ato Judicial que Constitua em Mora o Devedor,14058
+14064,Protesto Judicial,14058
+14070,Fazenda Pública,10684
+14100,Raça,12543
+14101,Cor,12543
+14102,Etnia,12543
+14103,Origem,12543
+14104,Condição de Pessoa Idosa,12543
+14105,Condição de Pessoa Portadora de Deficiência,12543
+14106,Orientação Sexual,12543
+14107,Identidade de Gênero,12543
+14108,Raça,12547
+14109,Origem,12547
+14110,Etnia,12547
+14111,Cor,12547
+14112,Condição de Pessoa Idosa,12547
+14113,Condição de Pessoa Portadora de Deficiência,12547
+14114,Orientação Sexual,12547
+14115,Identidade de Gênero,12547
+14116,Contribuição Confederativa,13276
+14117,Atleta Profissional,13641
+14118,Equipamento de Proteção Individual - EPI,13875
+14120,Subempreitada,14034
+14124,Quebra de Sigilo Telemático,10604
+14125,Proteção de Dados Pessoais (LGPD),12467
+14126,Alimentos Gravídicos,5626
+14131,Dispensa,10385
+14132,Inexigibilidade,10385
+14202,Lei Geral de Proteção de Dados (LGPD),9985
+14203,Proteção de Dados Pessoais,14202
+14204,Privacidade,14202
+14205,Lei Geral de Proteção de Dados (LGPD),899
+14206,Proteção de Dados Pessoais,14205
+14207,Privacidade,14205
+14220,Contas- Simplificada,11693
+14221,Falsificação ou Alteração de Documento Particular para Fins Eleitorais,11467
+14222,Impugnação - Reclamação à Ata Geral de Eleição,12049
+14223,Impugnação - Nomeação de Escrutinadores/Auxiliares Realizada pelo Presidente da Junta,12049
+14224,Requerimento de justificativa por ausência ou abandono dos trabalhos eleitorais,11428
+14225,Apuração de indícios de irregularidades informados pela Administração Pública,11684
+14226,Crimes Previstos na Lei Maria da Penha,3603
+14227,Crime de Descumprimento de Medida Protetiva de Urgência,14226
+14228,Previstos na Lei Maria da Penha,9847
+14229,Descumprimento de Medida Protetiva de Urgência,14228
+14236,Exercício Ilegal de Profissão ou Atividade,3692
+14237,Sistema Financeiro Imobiliário,4839
+14238,Produção Antecipada de Provas,10925
+14653,Redução à Condição Análoga à de Escravo,864
+14654,Condições Degradantes,14653
+14655,Jornada Exaustiva,14653
+14656,Restrição de Locomoção,14653
+14657,Trabalho Forçado,14653
+14658,Decorrente de Tráfico de Pessoa,14653
+14659,Tráfico Interno de Pessoa,3400
+14660,Remoção de Órgão,14659
+14661,Submissão à Condição Análoga à de Escravo,14659
+14662,Servidão,14659
+14663,Adoção Ilegal,14659
+14664,Exploração Sexual,14659
+14665,Tráfico Internacional de Pessoa ,3400
+14666,Exploração Sexual,14665
+14667,Adoção Ilegal,14665
+14668,Servidão,14665
+14669,Submissão à Condição Análoga à de Escravo,14665
+14670,Remoção de Órgão,14665
+14673,Apadrinhamento Material,12341
+14674,Apadrinhamento Prestador de Serviço,12341
+14675,Apadrinhamento Cultural,12341

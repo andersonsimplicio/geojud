@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block main %} 
+    <section id="form" class="border">
+        <legend><h2>MapaJUD</h2></legend>
+          <form method="POST" action="{% url 'geo:geobrain' %}" enctype="multipart/form-data">   
+            {% csrf_token %}     
+            <div class="row col-sm-12">       
+              <div class="form-group ">
+                <label class="col-form-label " for="inputDefault">Nome da Área</label>
+                <input type="text" name="area" class="form-control" placeholder="Nome da Área">
+              </div>
+            </div>  
+            <div class="row col-md-12">
+              <div class="col-md-6">
+                    <div class="form-group ">
+                        <label class="col-form-label" for="inputDefault">Latitude</label>
+                        <input type="text" name="latitude"  class="form-control" placeholder="ex.-15.65355">
+                    </div>
+              </div>
+                <div class="col-md-6">
+                    <div class="form-group ">
+                      <label class="col-form-label" for="inputDefault">Longitude</label>
+                      <input type="text" name="longitude" class="form-control" placeholder="ex.-56.96858">
+                    </div>  
+                </div> 
+             </div>   
+                <div class="row col-md-12">
+                  <div class="col-md-6 ">
+                        <div class="form-group ">
+                            <label class="col-form-label" for="inputDefault">Código SIGEF</label>
+                            <input type="text" name="sigef" class="form-control" placeholder="ex.Código SIGEF">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group ">
+                          <label class="col-form-label" for="inputDefault">Código SIRENEJUD</label>
+                          <input type="text" name="sirenejud" class="form-control" placeholder="ex.Códgigo SIRENEJUD">
+                        </div>  
+                  </div>
+                </div>
+                <div class="row col-md-12">
+                  <div class="col-md-6">
+                        <div class="form-group ">
+                            <label class="col-form-label" for="inputDefault">Código Municipio IBGE</label>
+                            <input type="text" name="ibge" class="form-control" placeholder="ex.2525252">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="form-group ">
+                          <label class="col-form-label" for="inputDefault">Código CAR</label>
+                          <input type="text" name="sicar" class="form-control" placeholder="XX-1234567-74EE7C7354444AA596F0C867761705D4">
+                      </div>
+                  </div>
+                  </div>
+                  <div class="row col-md-12">
+                    <div class="offset-md-2 col-md-8">   
+                      <div class="form-group ">
+                        <label for="formFile" class="form-label col-form-label mt-2">Peça Processual</label>
+                        <input class="form-control" type="file" name="file">
+                      </div>
+              </div>
+                  </div>
+                
+                <div class="col-md-12" style="align-items: center;"> 
+                <button type="submit" class="mt-4 btn-submit">enviar</button>
+                </div>
+          </form>   
+     </section>    
+ {% endblock %}
