@@ -1,0 +1,19 @@
+{% extends 'geo/index.html' %}
+{% load static %}
+
+
+{% block map %}
+    {{mapa | safe}}
+{% endblock %}
+
+{% block info %}
+    {% if flores %}
+       {{flores | linebreaks}}
+    {% endif %}
+    {% if desmata %}
+    {{desmata | linebreaks}}
+    {% endif %}
+    {% if rural %}
+    {{rural | linebreaks}}
+    {% endif %}
+{% endblock %}

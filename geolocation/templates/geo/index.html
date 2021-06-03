@@ -1,37 +1,52 @@
 {% extends 'base.html' %}
 {% load static %}
 
-{% block main %} 
-    <section id="form" class="border">
-        <legend><h2>MapaJUD</h2></legend>
-          <form method="POST" action="" enctype="multipart/form-data">   
-            {% csrf_token %}     
-            <div class="row col-sm-12">       
-              <div class="form-group ">
-                <label class="col-form-label " for="inputDefault">Nome da Área</label>
-                <input type="text" name="area" class="form-control" placeholder="Nome da Área">
-              </div>
-            </div>  
-            <div class="row col-md-12">
-              <div class="col-md-6">
-                    <div class="form-group ">
-                        <label class="col-form-label" for="inputDefault">Latitude</label>
-                        <input type="text" name="latitude"  class="form-control" placeholder="ex.-15.65355">
-                    </div>
-              </div>
-                <div class="col-md-6">
-                    <div class="form-group ">
-                      <label class="col-form-label" for="inputDefault">Longitude</label>
-                      <input type="text" name="longitude" class="form-control" placeholder="ex.-56.96858">
-                    </div>  
-                </div> 
-            </div>   
-            
-                <div class="col-md-12" style="align-items: center;"> 
-                    <button  type="submit" class="mt-4 btn-submit col-md-4 ml-1 ">capturar</button>
-                    <button  type="submit" class="mt-4 btn-submit col-md-4">enviar</button>
-                </div>
-               
-          </form>   
-     </section>    
- {% endblock %}
+{% block form %}
+<form action="{% url 'geojud:map' %}" method="POST">
+  {% csrf_token %}
+  <h5 class="text-center"><i class="fas fa-globe-europe pr-3"></i>Informe a Localização</h5>
+  <div class="input_box">
+      <!-- <i class="fas fa-map-marker-alt pr-2"></i> -->
+      <label for="lat">Latitude</label>
+      <input type="text" name="latitude" id="lat">
+  </div>
+  <div class="input_box">
+      <!-- <i class="fas fa-map-marker-alt pr-2"></i> -->
+      <label for="long">Longitude</label>
+      <input type="text"  name="longitude" id="long">
+  </div>
+  <div class="input_box_submit">
+    <input type="submit" value="Enviar">
+  </div>
+</form>
+{% endblock %}
+
+{% block main %}
+<div class="map">
+  {% block map %}
+    <img src="{% static 'img/googlemaps.png' %}" alt="">
+  {% endblock %}  
+</div>
+<div class="info_map">
+    <div class="button_open">
+      <i class="fas fa-chevron-up" id="open_button"></i>
+    </div>
+    <h5 class="text-center pt-2">Informações</h5>
+      <div class="box_info">
+        {% block info %}
+        {% endblock %}
+      </div>
+</div>
+{% endblock %}
+
+{% block script %}
+<!-- <script>
+  function recordData (data) {
+    let lat = document.querySelector("#lat");
+    lat.value=data.loc.split(',')[0];
+    let long = document.querySelector("#long");
+    log.value=data.loc.split(',')[1]; 
+  }
+</script> -->
+<script src="https://ipinfo.io/json?callback=recordData"></script>
+{% endblock %}
