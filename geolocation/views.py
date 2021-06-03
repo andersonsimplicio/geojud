@@ -58,20 +58,25 @@ def MapView(request):
         desmatamento = gp.read_file('data/desmatamento/desmata.shp')   
         area_imovel = gp.read_file('data/car/AREA_IMOVEL.shp')       
         fogo = gp.read_file('data/queimadas/Focos_2020-06-01_2021-06-02.shp')   
-                
+        sigef = gp.read_file('data/sigef/Sigef_Brasil_MT.shp')
+        
         florestas.geometry = convert_3D_2D(florestas.geometry)
         mask = []  
         ponto =Point(float(long),float(lat)) 
         mask_floresta = False 
         mask_desmata = False
         mask_area_imovel = False
+        mask_sigef=False
         mask_floresta = filter(florestas['geometry'],ponto) 
         mask_desmata = filter(desmatamento['geometry'],ponto)
         mask_area_imovel = filter(area_imovel['geometry'],ponto)
+        mask_sigef = filter(sigef['geometry'],ponto) 
         informacoes=""
         flores=""
         desmata=""
         rural=""
+        sigef=""
+        
         if mask_floresta:     
             geo_floresta =florestas[florestas['geometry']==mask_floresta]  
             latitudes = fogo['latitude']
@@ -105,6 +110,17 @@ def MapView(request):
                 ponto =Point(float(long),float(lat))
                 if geo_area_imovel['geometry'].contains(ponto).values[0]:
                     folium.Marker(location=[lat,long],popup="Queimada", icon=folium.Icon(color="red", icon="info-sign"),).add_to(m)
+        
+        if mask_sigef:
+            geo_sigef = sigef[sigef['geometry']==mask_area_imovel] 
+            sigef = "Sigef "+str(geo_sigef['codigo_imo'].values[0])
+            context['sigef']=sigef
+            latitudes = fogo['latitude']
+            longitude = fogo['longitude']
+            for lat,long in zip(fogo['latitude'], fogo['longitude']):
+                ponto =Point(float(long),float(lat))
+                if geo_sigef['geometry'].contains(ponto).values[0]:
+                    folium.Marker(location=[lat,long],popup="Queimada", icon=folium.Icon(color="red", icon="info-sign"),).add_to(m)
             
         if mask_floresta:    
             folium.GeoJson(data=geo_floresta["geometry"],style_function=lambda x:style2).add_to(m)
@@ -112,6 +128,8 @@ def MapView(request):
             folium.GeoJson(data=geo_area_imovel["geometry"],style_function=lambda x:style3).add_to(m)
         if mask_desmata:    
             folium.GeoJson(data=geo_desmata["geometry"],style_function=lambda x:style4).add_to(m)
+        if mask_sigef:    
+           folium.GeoJson(data=geo_desmata["geometry"],style_function=lambda x:style1).add_to(m)
             
         
         mapa = m._repr_html_()  

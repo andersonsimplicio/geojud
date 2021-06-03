@@ -11,9 +11,12 @@
        {{flores | linebreaks}}
     {% endif %}
     {% if desmata %}
-    {{desmata | linebreaks}}
+    <textarea>{{desmata | linebreaks}}</textarea>>
     {% endif %}
     {% if rural %}
     {{rural | linebreaks}}
+    {% endif %}
+    {% if sigef %}
+    {{sigef | linebreaks}}
     {% endif %}
 {% endblock %}
