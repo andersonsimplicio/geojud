@@ -8,15 +8,38 @@
 
 {% block info %}
     {% if flores %}
-       {{flores | linebreaks}}
+       <div class="inside_info">
+        <span class="retangulo blue "></span>
+        <span>Nome:{{flores | linebreaks}}</span>
+        <span class="text-uppercase pl-3" >Terra Indígena Guato</span>
+      </div>
     {% endif %}
     {% if desmata %}
-    <textarea>{{desmata | linebreaks}}</textarea>>
+
+    <div class="inside_info ">
+        <span class="retangulo red"></span>
+        <span></span>
+        <span class="text-uppercase pl-3" >{{desmata | linebreaks}}</span>
+      </div>
+    <!-- <textarea>{{desmata | linebreaks}}</textarea> -->
+
     {% endif %}
     {% if rural %}
-    {{rural | linebreaks}}
+    <div class="inside_info">
+        <span class="retangulo orange"></span>
+        <span>CAR</span>
+        <span class="text-uppercase pl-3" >{{rural | linebreaks}}</span>
+      </div>
+    
     {% endif %}
     {% if sigef %}
-    {{sigef | linebreaks}}
+
+    <div class="inside_info">
+        <span class="retangulo green"></span>
+        <span>SIGEF</span>
+        <span class="text-uppercase pl-3" >{{sigef | linebreaks}}</span>
+      </div>
+
+    
     {% endif %}
 {% endblock %}

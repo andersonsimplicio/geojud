@@ -2,7 +2,7 @@
 {% load static %}
 
 {% block form %}
-<form action="{% url 'geojud:map' %}" method="POST">
+<form action="{% url 'geojud:map' %}" method="POST" id="form_geojud">
   {% csrf_token %}
   <h5 class="text-center"><i class="fas fa-globe-europe pr-3"></i>Informe a Localização</h5>
   <div class="input_box">
@@ -22,21 +22,24 @@
 {% endblock %}
 
 {% block main %}
-<div class="map">
+
+  <div class="map">
   {% block map %}
-    <img src="{% static 'img/googlemaps.png' %}" alt="">
+  <img src="{% static 'img/googlemaps.png' %}" alt="">
   {% endblock %}  
-</div>
-<div class="info_map">
+  </div>
+  <div class="info_map">
     <div class="button_open">
       <i class="fas fa-chevron-up" id="open_button"></i>
     </div>
     <h5 class="text-center pt-2">Informações</h5>
-      <div class="box_info">
-        {% block info %}
-        {% endblock %}
-      </div>
-</div>
+    <div class="box_info">
+      {% block info %}
+      {% endblock %}
+    </div>
+  </div>
+
+
 {% endblock %}
 
 {% block script %}

@@ -24,8 +24,8 @@ def convert_3D_2D(geometry):
                 new_geo.append(MultiPolygon(new_multi_p))
     return new_geo
 style1 = {'fillColor': 'ff1919', 'color': '#ff0000'}
-style2 = {'fillColor': 'green', 'color': 'green'}
-style3 = {'fillColor': '#9c5010', 'color': 'orange'}
+style2 = {'fillColor': '#198F14', 'color': '#198F14'}
+style3 = {'fillColor': '#9c5010', 'color': '#822619'}
 style4 = {'fillColor': '#FFFF00', 'color': '#483D8B'}
 
 def filter(geometry,ponto):
@@ -53,7 +53,7 @@ def MapView(request):
         long = request.POST['longitude']
          
         context={}
-        m = folium.Map(location=[lat, long],width='100%', height=300, zoom_start=10)
+        m = folium.Map(location=[lat, long],width='100%', height='100%', zoom_start=10)
         florestas = gp.read_file('data/florestas/Floresta_SireneJud_pocone.shp')
         desmatamento = gp.read_file('data/desmatamento/desmata.shp')   
         area_imovel = gp.read_file('data/car/AREA_IMOVEL.shp')       

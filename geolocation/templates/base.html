@@ -12,21 +12,41 @@
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
   </head>
   <body>
+    
+    <div class="loader">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+
       <header>
-<div class="geo_logo">
-<img src="{% static 'img/Geojud-removebg-preview.png' %}" alt="">
-<span>GeoJud</span>
-</div>
-    <div class="menu_bars">
-        <div class="bar one"></div>
-        <div class="bar two"></div>
-        <div class="bar three"></div>
-    </div>
-    <div class="search_menu">
-      {% block form %}
-      {% endblock %}
-    </div>
+        <div class="geo_logo">
+          <img src="{% static 'img/Geojud-removebg-preview.png' %}" alt="">
+          <span>GeoJud</span>
+        </div>
+        <div class="menu_bars">
+          <div class="bar one"></div>
+          <div class="bar two"></div>
+          <div class="bar three"></div>
+        </div>
+        <nav class="nav_bar">
+          <ul>
+            <li><a class="active" href="">Quem Somos</a></li>
+            <li><a href="">GeoJud e Mapajud</a></li>
+            <li><a href="">Ativar Localização</a></li>
+          </ul>
+        </nav>
+        <div class="search_menu">
+          {% block form %}
+          {% endblock %}
+          
+        </div>
       </header>
+
+
+
+
       <main>
         {% block main %}
           
