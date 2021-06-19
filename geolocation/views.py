@@ -81,9 +81,10 @@ def MapView(request):
             geo_floresta =florestas[florestas['geometry']==mask_floresta]  
             latitudes = fogo['latitude']
             longitude = fogo['longitude']
-            flores+='Nome: '+str(geo_floresta['nome'].values[0])+"\n"
-            flores+='SireneJud: '+str(geo_floresta['SireneJud'].values[0])+"\n"
-            context['flores']=flores
+            flores_nome = str(geo_floresta['nome'].values[0])+"\n"
+            flores_sirene = str(geo_floresta['SireneJud'].values[0])+"\n"
+            context['flores_nome']=flores_nome
+            context['flores_sirene']=flores_sirene
             for lat,long in zip(fogo['latitude'], fogo['longitude']):
                 ponto =Point(float(long),float(lat))
                 if geo_floresta['geometry'].contains(ponto).values[0]:
@@ -102,7 +103,7 @@ def MapView(request):
                   
         if mask_area_imovel:
             geo_area_imovel = area_imovel[area_imovel['geometry']==mask_area_imovel] 
-            rural+='CAR: '+str(geo_area_imovel['COD_IMOVEL'].values[0])+"\n"
+            rural+=str(geo_area_imovel['COD_IMOVEL'].values[0])+"\n"
             context['rural']=rural
             latitudes = fogo['latitude']
             longitude = fogo['longitude']

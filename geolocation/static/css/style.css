@@ -217,6 +217,9 @@ main{
     object-fit: cover;
     overflow: hidden;
 }
+.map div div{
+    height: 100% !important;
+}
 .map img{
     width: 100%;
     height: 100%;
@@ -249,17 +252,37 @@ main{
     /* display: flex; */
     justify-content: center;
     overflow-x: scroll;
+    
 }
 .inside_info{
-    width: 80%;
-    margin: 0 auto;
-    height: 30px;
-    display: inline-flex;
-    justify-content: flex-start;
-    padding: 15px 0 0 15px;
+    display: flex;
+    padding: 15px;
     align-items: baseline;
-    /* background-color: red; */
-
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+.inside_info.orange{
+    background-color: #e0cfbe;
+}
+.inside_info.green{
+    background-color: #c3dcbf;
+}
+.inside_info span{
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.inside_info span.green{
+    color:#1d8f15 ;
+}
+.inside_info span.orange{
+    color:#822619;
+}
+.inside_info span.red{
+    color:#360700;
+}
+.inside_info span.blue{
+    color:#14838F;
 }
 .retangulo{
     width: 20px;
@@ -269,10 +292,10 @@ main{
     margin-right: 10px;
 }
 .retangulo.blue{
-background-color: #14838F;
+    background-color: #14838F;
 }
 .retangulo.green{
-    background-color: #198F14;   
+    background-color: #1d8f15;   
 }
 .retangulo.orange{
     background-color: #822619;

@@ -7,28 +7,29 @@
 {% endblock %}
 
 {% block info %}
-    {% if flores %}
-       <div class="inside_info">
-        <span class="retangulo blue "></span>
-        <span>Nome:{{flores | linebreaks}}</span>
-        <span class="text-uppercase pl-3" >Terra Indígena Guato</span>
+    {% if flores_nome %}
+       <div class="inside_info green">
+        <span class="retangulo green"></span>
+        <span class="green text-center">{{flores_nome}}</span>
+        <!-- <span class="green">{{flores_nome}}</span> -->
+        <span class="text-uppercase pl-3 text-center green">Sirenejud : {{flores_sirene}}</span>
       </div>
     {% endif %}
     {% if desmata %}
 
     <div class="inside_info ">
         <span class="retangulo red"></span>
-        <span></span>
-        <span class="text-uppercase pl-3" >{{desmata | linebreaks}}</span>
+        <span class="red text-center"></span>
+        <span class="text-uppercase pl-3 text-center red" >{{desmata}}</span>
       </div>
     <!-- <textarea>{{desmata | linebreaks}}</textarea> -->
 
     {% endif %}
     {% if rural %}
-    <div class="inside_info">
+    <div class="inside_info orange">
         <span class="retangulo orange"></span>
-        <span>CAR</span>
-        <span class="text-uppercase pl-3" >{{rural | linebreaks}}</span>
+        <span class="orange text-center">CAR</span>
+        <span class="text-uppercase pl-3 text-center orange">{{rural}}</span>
       </div>
     
     {% endif %}
@@ -36,8 +37,8 @@
 
     <div class="inside_info">
         <span class="retangulo green"></span>
-        <span>SIGEF</span>
-        <span class="text-uppercase pl-3" >{{sigef | linebreaks}}</span>
+        <span class="green text-center">SIGEF</span>
+        <span class="text-uppercase pl-3 text-center green">{{sigef}}</span>
       </div>
 
     
