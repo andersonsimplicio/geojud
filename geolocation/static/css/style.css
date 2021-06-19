@@ -258,7 +258,7 @@ main{
     display: flex;
     padding: 15px;
     align-items: baseline;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid rgba(0,0,0,0.8);
 }
@@ -269,6 +269,7 @@ main{
     background-color: #c3dcbf;
 }
 .inside_info span{
+    font-size: 14px;
     font-weight: 600;
     letter-spacing: 1px;
 }
@@ -310,6 +311,9 @@ main{
     .info_map{
         width: 45%;
     }
+    .inside_info span{
+        font-size: 14px;
+    }
 }
 @media (max-width:936px){
     header{
@@ -334,6 +338,9 @@ main{
     }
     .search_menu form .input_box_submit input{
        margin-top: -37px;
+    }
+    .inside_info span{
+        font-size: 13px;
     }
 }
 @media (max-width:720px){
@@ -495,5 +502,8 @@ main{
     justify-content: start;
     flex-wrap: wrap;
     height: auto;
+}
+.inside_info span{
+    font-size: 12px;
 }
 }
