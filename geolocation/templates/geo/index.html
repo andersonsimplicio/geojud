@@ -6,14 +6,14 @@
   {% csrf_token %}
   <h5 class="text-center"><i class="fas fa-globe-europe pr-3"></i>Informe a Localização</h5>
   <div class="input_box">
-      <!-- <i class="fas fa-map-marker-alt pr-2"></i> -->
-      <label for="lat">Latitude</label>
-      <input type="text" name="latitude" id="lat">
+    <!-- <i class="fas fa-map-marker-alt pr-2"></i> -->
+    <label for="lat">Latitude</label>
+    <input type="text" name="latitude" id="lat">
   </div>
   <div class="input_box">
-      <!-- <i class="fas fa-map-marker-alt pr-2"></i> -->
-      <label for="long">Longitude</label>
-      <input type="text"  name="longitude" id="long">
+    <!-- <i class="fas fa-map-marker-alt pr-2"></i> -->
+    <label for="long">Longitude</label>
+    <input type="text" name="longitude" id="long">
   </div>
   <div class="input_box_submit">
     <input type="submit" value="Enviar">
@@ -23,21 +23,21 @@
 
 {% block main %}
 
-  <div class="map">
+<div class="map">
   {% block map %}
   <img src="{% static 'img/googlemaps.png' %}" alt="">
-  {% endblock %}  
+  {% endblock %}
+</div>
+<div class="info_map">
+  <div class="button_open">
+    <i class="fas fa-chevron-up" id="open_button"></i>
   </div>
-  <div class="info_map">
-    <div class="button_open">
-      <i class="fas fa-chevron-up" id="open_button"></i>
-    </div>
-    <h5 class="text-center pt-2">Informações</h5>
-    <div class="box_info">
-      {% block info %}
-      {% endblock %}
-    </div>
+  <h5 class="text-center pt-2">Informações</h5>
+  <div class="box_info">
+    {% block info %}
+    {% endblock %}
   </div>
+</div>
 
 
 {% endblock %}
@@ -51,5 +51,5 @@
     log.value=data.loc.split(',')[1]; 
   }
 </script> -->
-<script src="https://ipinfo.io/json?callback=recordData"></script>
+<!-- <script src="https://ipinfo.io/json?callback=recordData"></script> -->
 {% endblock %}
